@@ -1,10 +1,10 @@
-# Available .CLOTHING One-Word Domains (8,992)
+# Available .CLOTHING One-Word Domains (8,994)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C994%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C992%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C994%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .clothing one-word domains from Un
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,994 rows · **Live catalog:** 8,992 domains
+**Public extract:** 8,994 rows · **Live catalog:** 8,994 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/clothing`  
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | data.clothing      | available | $35.68    | —             | 70             | 56     | 4      | namecheap        |
 | palestine.clothing | resell    | —         | —             | 59             | 93     | 9      | GoDaddy.com, LLC |
 | car.clothing       | premium   | $42.90    | $42.90        | 94             | 49     | 3      | namecheap        |
-| clear.clothing     | available | $19.99    | $46.99        | 90             | 50     | 5      | name.com         |
-| fun.clothing       | resell    | —         | —             | 122            | 61     | 3      | GoDaddy.com, LLC |
+| clear.clothing     | available | $19.99    | $46.99        | 90             | 49     | 5      | name.com         |
+| fun.clothing       | resell    | —         | —             | 122            | 62     | 3      | GoDaddy.com, LLC |
 | air.clothing       | premium   | $85.80    | $85.80        | 84             | 49     | 3      | namecheap        |
 | fast.clothing      | available | $19.99    | $46.99        | 82             | 48     | 4      | name.com         |
 | the.clothing       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH        |
 | travel.clothing    | premium   | $520      | $520          | 115            | 48     | 6      | namecheap        |
 | clarity.clothing   | available | $19.99    | —             | 76             | 47     | 7      | name.com         |
-| live.clothing      | resell    | —         | —             | 108            | 55     | 4      | Spaceship, Inc.  |
+| live.clothing      | resell    | —         | —             | 108            | 56     | 4      | Spaceship, Inc.  |
 | law.clothing       | premium   | $128.70   | $128.70       | 82             | 46     | 3      | namecheap        |
-| hotel.clothing     | available | $35.68    | —             | 70             | 46     | 5      | namecheap        |
-| buy.clothing       | resell    | —         | —             | 106            | 53     | 3      | Sav.com, LLC     |
-| map.clothing       | premium   | $128.70   | $128.70       | 78             | 45     | 3      | namecheap        |
 | creative.clothing  | available | $19.99    | $46.99        | 92             | 45     | 8      | name.com         |
+| buy.clothing       | resell    | —         | —             | 106            | 53     | 3      | Sav.com, LLC     |
+| pop.clothing       | premium   | $82.50    | $82.50        | 82             | 43     | 3      | name.com         |
+| hotel.clothing     | available | $35.68    | —             | 70             | 45     | 5      | namecheap        |
 | art.clothing       | resell    | —         | —             | 90             | 52     | 3      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,994-row public sample | 8,992 live domains                               |
+| 8,994-row public sample | 8,994 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLOTHING One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLOTHING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
