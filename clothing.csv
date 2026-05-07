@@ -868,6 +868,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4a53b4e8-2d37-4740-b6a6-5273a90b6d8e,walktheline.clothing,available,19.99,,68,3,13,name.com,,
 4a91305c-faad-463f-969f-8cc22653b7db,Iamadoctor.clothing,available,35.68,,50,1,13,namecheap,,
 4aa0f24c-3736-4dd1-8255-983600003c91,couldnotcareless.clothing,available,19.99,,38,0,19,name.com,,
+4ab8da82-d98a-4076-b2ec-6fa7be26918a,guide.clothing,premium,,,72,29,5,,,
 4abe7b6e-4c38-49ac-83f6-336d5fa33654,unsettles.clothing,available,19.99,,43,1,9,name.com,,
 4ae9fc43-62c3-409e-8dab-2b32bbb23081,softsell.clothing,available,19.99,,72,3,9,name.com,,
 4b0762af-3e48-4c23-98ec-479711054292,tractors.clothing,available,19.99,,56,8,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 55fd8e18-930e-4991-afed-7baefb069aac,desktoptoy.clothing,available,19.99,,50,1,11,name.com,,
 55ff51a4-8094-4f3a-b6b5-62a8a7d2772c,LordofHosts.clothing,available,35.68,,54,2,13,namecheap,,
 5612fb56-ea9b-4857-a34d-e66fc4a65b66,coffeemaking.clothing,available,19.99,,72,2,13,name.com,,
-561d11c2-0a3c-468a-984f-cf0adb21af0e,letitbe.clothing,available,19.99,,89,7,9,name.com,,
