@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .clothing one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,941 domains · **Median ask:** $23.12 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/clothing`  
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | WiFi.clothing         | resell    | —         | —             | 83             | 37     | 5      | GoDaddy.com, LLC |
 | Ryan.clothing         | premium   | $46.20    | $46.20        | 60             | 44     | 4      | namecheap        |
 | cars.clothing         | available | $19.99    | —             | 66             | 47     | 4      | name.com         |
-| pestcontrol.clothing  | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC |
+| pestcontrol.clothing  | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
 | jobs.clothing         | premium   | $500      | —             | 79             | 42     | 4      | name.com         |
 | Tools.clothing        | available | $35.68    | —             | 56             | 40     | 5      | namecheap        |
 | hats.clothing         | resell    | —         | —             | 65             | 15     | 4      | GoDaddy.com, LLC |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLOTHING One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLOTHING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
