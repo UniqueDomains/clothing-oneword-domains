@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .clothing one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,830 domains · **Median ask:** $22.64 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/tld/clothing`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ain.clothing     | available | $19.99    | $46.99        | low            | low    | 3      | name.com         |
-| buy.clothing     | resell    | —         | —             | medium         | medium | 3      | Sav.com, LLC     |
-| aid.clothing     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
-| BJP.clothing     | available | $19.99    | —             | medium         | low    | 3      | name.com         |
-| tap.clothing     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| bra.clothing     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo         |
-| CNN.clothing     | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| good.clothing    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
-| bus.clothing     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| Eid.clothing     | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| real.clothing    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
-| cod.clothing     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| LLP.clothing     | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| sell.clothing    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| con.clothing     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| lxi.clothing     | available | $19.99    | $46.99        | low            | low    | 3      | name.com         |
-| expert.clothing  | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC    |
-| gee.clothing     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo         |
-| tks.clothing     | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| digital.clothing | resell    | —         | —             | high           | medium | 7      | Porkbun LLC      |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| damn.clothing   | available | $19.99    | $46.99        | high           | low    | 4      | name.com         |
+| ain.clothing    | available | $19.99    | $46.99        | low            | low    | 3      | name.com         |
+| buy.clothing    | resell    | —         | —             | medium         | medium | 3      | Sav.com, LLC     |
+| aid.clothing    | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
+| BJP.clothing    | available | $19.99    | —             | medium         | low    | 3      | name.com         |
+| tap.clothing    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| bra.clothing    | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo         |
+| CNN.clothing    | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| good.clothing   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| bus.clothing    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| Eid.clothing    | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| real.clothing   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| cod.clothing    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| LLP.clothing    | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| sell.clothing   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| con.clothing    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| lxi.clothing    | available | $19.99    | $46.99        | low            | low    | 3      | name.com         |
+| expert.clothing | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC    |
+| gee.clothing    | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo         |
+| tks.clothing    | available | $19.99    | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLOTHING One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLOTHING One-Word Domains*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
