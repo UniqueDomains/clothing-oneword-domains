@@ -1,10 +1,10 @@
-# Available .CLOTHING One-Word Domains (13,287)
+# Available .CLOTHING One-Word Domains (22,100)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C287%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C100%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .clothing one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,287 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,100 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,287 domains · **Median ask:** $25.30 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 22,100 domains · **Median ask:** $29.46 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/clothing`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
-| ada.clothing     | available | $19.99    | —             | high           | medium | 3      | name.com                            |
-| tap.clothing     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                    |
-| aid.clothing     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                            |
-| ain.clothing     | available | $19.99    | $46.99        | high           | low    | 3      | name.com                            |
-| auto.clothing    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                         |
-| ann.clothing     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                            |
-| bae.clothing     | available | $19.99    | —             | high           | low    | 3      | name.com                            |
-| real.clothing    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                         |
-| bag.clothing     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                            |
-| bjp.clothing     | available | $19.99    | —             | high           | low    | 3      | name.com                            |
-| sell.clothing    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                    |
-| bra.clothing     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                            |
-| cnn.clothing     | available | $19.99    | —             | high           | low    | 3      | name.com                            |
-| farmer.clothing  | resell    | —         | —             | high           | low    | 6      | IONOS SE                            |
-| bum.clothing     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                            |
-| eid.clothing     | available | $19.99    | —             | high           | low    | 3      | name.com                            |
-| marine.clothing  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                    |
-| bus.clothing     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                            |
-| icu.clothing     | available | $19.99    | —             | high           | low    | 3      | name.com                            |
-| athlete.clothing | resell    | —         | —             | high           | low    | 7      | Domain.com - Network Solutions, LLC |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| apr.clothing        | available | $31.98    | $35.68        | high           | low    | 3      | namecheap        |
+| all.clothing        | resell    | $38.94    | $38.94        | high           | medium | 3      | Sav.com, LLC     |
+| air.clothing        | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap        |
+| atp.clothing        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| bliss.clothing      | resell    | —         | —             | high           | medium | 5      | —                |
+| alb.clothing        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| avo.clothing        | available | $32.99    | $32.99        | high           | low    | 3      | namesilo         |
+| trump.clothing      | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
+| als.clothing        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| ayr.clothing        | available | $32.99    | $32.99        | high           | low    | 3      | namesilo         |
+| contractor.clothing | resell    | —         | —             | high           | low    | 10     | —                |
+| arm.clothing        | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
+| bpi.clothing        | available | $32.99    | $32.99        | high           | low    | 3      | namesilo         |
+| den.clothing        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| dai.clothing        | available | $32.99    | $32.99        | high           | low    | 3      | namesilo         |
+| err.clothing        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| hic.clothing        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| eta.clothing        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| llp.clothing        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| hub.clothing        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,287 live domains                        |
+| 1,000-row public sample | 22,100 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLOTHING One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLOTHING One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
