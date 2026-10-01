@@ -16,7 +16,7 @@ aa4a7460-ed9c-4a02-9702-68eb7d7af9f9,headmaster.clothing,available,32.99,32.99,h
 62392848-dc5c-40a5-9f2c-dd7a6ab1f932,unlabelled.clothing,available,31.98,35.68,medium,low,10,namecheap,,,12/09/2026 14:33
 705233cd-6903-45f1-bd83-3aba58c88188,developing.clothing,available,32.99,32.99,high,low,10,namesilo,,,24/09/2026 07:59
 02eab3f0-01d2-408d-bf93-38654ccb0c45,sluicing.clothing,available,31.98,35.68,medium,low,8,namecheap,,,10/09/2026 11:31
-1b008b02-167a-448b-8d65-239d6ab11710,oakland.clothing,available,19.99,,high,low,7,name.com,,,
+1b008b02-167a-448b-8d65-239d6ab11710,oakland.clothing,available,26.08,26.08,high,low,7,spaceship,,,30/09/2026 05:55
 154379d9-2f2d-4ff1-afdf-730c3a2a730a,branson.clothing,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 17:54
 5039f7f2-1494-4d66-aeba-9b89384ef6b0,fdic.clothing,available,32.99,32.99,medium,low,4,namesilo,,,30/09/2026 01:36
 1c58dd0a-ec7a-4859-a5af-4d5f7e55a112,missile.clothing,available,19.99,46.99,high,low,7,name.com,,,27/09/2026 07:17
@@ -32,7 +32,7 @@ c8235c51-d1dc-46e8-9adc-3cc303dfc495,arity.clothing,available,32.99,32.99,medium
 ab677752-1b27-48f3-a218-2ed5f7481968,knobby.clothing,available,19.99,46.99,medium,low,6,name.com,,,22/08/2026 16:29
 03d06aca-c3f9-4202-831e-65fbf373e4d2,clive.clothing,available,19.99,46.99,high,low,5,name.com,,,22/09/2026 07:05
 2a470536-c687-480f-a827-c6ed17164105,ironically.clothing,available,31.98,35.68,medium,low,10,namecheap,,,15/09/2026 09:24
-4be5d3ac-b935-449b-81cc-c33e67f3b706,mata.clothing,available,10.92,26.97,high,low,4,dynadot,,,28/09/2026 21:09
+4be5d3ac-b935-449b-81cc-c33e67f3b706,mata.clothing,available,10.92,26.97,medium,low,4,dynadot,,,28/09/2026 21:09
 40c75007-a16c-4c43-8a9b-fd054d7bed3d,spencer.clothing,available,32.99,32.99,high,low,7,namesilo,,,27/09/2026 14:02
 aad02225-1c55-47f7-9eb2-a51ea60e9aee,mockingly.clothing,available,31.98,35.68,medium,low,9,namecheap,,,14/09/2026 12:02
 ee07fd6b-0e72-4bd7-90d1-2e4c0f235dd8,boob.clothing,available,10.81,26.26,medium,low,4,porkbun,,,29/09/2026 03:04
@@ -53,7 +53,7 @@ e989ad29-a976-4c6e-85a6-b11d87438d00,barbara.clothing,premium,78.54,78.54,high,l
 b3f6a669-72ad-4dd6-8904-01d0042286e3,prudishly.clothing,available,31.98,35.68,low,low,9,namecheap,,,15/09/2026 21:53
 f661a974-bb34-4afe-b0c2-c0a20e3afbab,secret.clothing,available,31.98,35.68,high,medium,6,namecheap,,,23/09/2026 14:41
 19fe475d-f422-4f04-8352-745992bf359c,amidships.clothing,available,19.99,46.99,medium,low,9,name.com,,,
-0385a7e0-c634-4b1e-a6f1-86ede9ae889e,skies.clothing,available,32.99,32.99,high,low,5,namesilo,,,18/09/2026 07:49
+0385a7e0-c634-4b1e-a6f1-86ede9ae889e,skies.clothing,available,32.99,32.99,medium,low,5,namesilo,,,18/09/2026 07:49
 f8ce04c4-fc08-4242-842d-d94aa6edc625,wessex.clothing,available,32.99,32.99,medium,low,6,namesilo,,,29/09/2026 08:19
 3d446a6a-6a56-44c6-80f8-cae1a7db8637,equipment.clothing,available,31.98,35.68,high,low,9,namecheap,,,29/09/2026 19:32
 44de8bf1-a86b-4ec6-be00-047ea22ff41f,realistic.clothing,available,31.98,35.68,high,low,9,namecheap,,,03/09/2026 13:57
@@ -66,12 +66,16 @@ cde749ee-6693-4ed9-96bd-65d20269b15f,recklessly.clothing,available,31.98,35.68,m
 21806100-f6de-46a9-a426-bb6ee1a2fb02,knavish.clothing,available,19.99,46.99,medium,low,7,name.com,,,13/08/2026 04:34
 26a9ae2e-311b-4c31-be85-6e3be12a6692,acervulus.clothing,available,31.98,35.68,medium,low,9,namecheap,,,16/09/2026 23:44
 43b14d8a-0e72-4dfd-9879-2ed667f2aa6b,whereby.clothing,available,19.99,,medium,low,7,name.com,,,
+3783056b-69ac-4806-bcfe-080124c2798d,ultimatum.clothing,available,25.2,25.2,high,low,9,cloudflare,,,30/09/2026 11:14
 50414737-20f7-4ae2-bb2f-a9a1a3500562,maimonides.clothing,available,32.99,32.99,medium,low,10,namesilo,,,29/09/2026 13:20
 a8d20ff1-6918-45d0-81d2-a1beb2179ee9,hayastan.clothing,available,32.99,32.99,medium,low,8,namesilo,,,20/09/2026 06:40
 2c46cdc8-f27c-466e-93bb-5e9709684407,iddm.clothing,available,32.99,32.99,medium,low,4,namesilo,,,21/09/2026 06:41
 ef66eb7f-b249-4967-a069-1f6973560799,nanus.clothing,available,19.99,46.99,medium,low,5,name.com,,,24/08/2026 22:32
 346239de-4738-449f-91af-c36fa7973661,underfoot.clothing,available,32.99,32.99,medium,low,9,namesilo,,,16/09/2026 09:56
+c09b11be-4cd1-4002-b08d-890ee4d54baa,luce.clothing,available,10.81,26.26,high,low,4,porkbun,,,30/09/2026 09:11
 5628f1ec-5147-4a9b-92f6-4e1cd29f2ba9,tyrolean.clothing,available,31.98,35.68,medium,low,8,namecheap,,,11/09/2026 22:33
+301bcc80-b814-4511-80a1-22945dd1212c,fetus.clothing,available,25.2,25.2,high,low,5,cloudflare,,,30/09/2026 17:18
+9280aa48-19ff-4119-b034-728876be5a39,ticonderoga.clothing,available,32.99,32.99,medium,low,11,namesilo,,,30/09/2026 22:22
 9f3be4b2-4a78-4447-99e8-a02a238acef8,cupidity.clothing,available,32.99,32.99,medium,low,8,namesilo,,,21/09/2026 08:48
 65b78e7a-e1a4-4368-9f3b-63787ccf79cf,hauteur.clothing,available,32.99,32.99,medium,low,7,namesilo,,,20/09/2026 09:20
 c21d665a-b286-4854-938e-5520620bf1b2,accusing.clothing,available,19.99,46.99,medium,low,8,name.com,,,
@@ -102,19 +106,22 @@ c73f2507-1f14-4a65-9082-807db992306e,yonder.clothing,available,31.98,35.68,high,
 cd3fe8cf-6280-4b27-b594-7efcb8dfc529,counting.clothing,available,32.99,32.99,high,low,8,namesilo,,,25/09/2026 04:26
 6a4c6886-4090-4ea4-8450-8d3a276e79f7,outlet.clothing,premium,68.51,68.51,high,low,6,spaceship,,,29/09/2026 17:56
 37ef691f-3a83-480a-ad9a-641a28ebedc6,perennial.clothing,available,31.98,35.68,high,low,9,namecheap,,,08/09/2026 16:26
+e94933f9-818a-464a-b2ca-0505cd9189d6,scanned.clothing,available,26.08,26.08,high,low,7,spaceship,,,30/09/2026 20:03
 57d6984e-16db-4970-a558-f0c6bc2a5717,bhang.clothing,available,32.99,32.99,medium,low,5,namesilo,,,23/09/2026 12:34
 30d93a4a-edfd-499f-8a96-0e561401629d,ammonite.clothing,available,31.98,35.68,high,low,8,namecheap,,,18/09/2026 22:08
-a67d1e0b-2067-4bb6-af0d-14b443208524,blab.clothing,available,31.98,35.68,high,low,4,namecheap,,,23/09/2026 23:33
-d935f5b3-1873-4ab4-9ce7-95ea2db553f0,nash.clothing,available,19.99,,high,low,4,name.com,,,
+a67d1e0b-2067-4bb6-af0d-14b443208524,blab.clothing,available,31.98,35.68,medium,low,4,namecheap,,,23/09/2026 23:33
+d935f5b3-1873-4ab4-9ce7-95ea2db553f0,nash.clothing,available,31.98,35.68,high,low,4,namecheap,,,30/09/2026 05:24
 373ccacc-ecca-478a-bf43-47c323f8f8b9,mammary.clothing,available,19.99,46.99,medium,low,7,name.com,,,24/08/2026 14:23
 a0bea380-6c28-4351-a612-3074f363c1fe,cigarette.clothing,available,32.99,32.99,high,low,9,namesilo,,,25/09/2026 04:15
 8a457c61-59a7-4306-8b45-bd6b2b341ca1,damn.clothing,available,32.99,32.99,high,low,4,namesilo,,,22/09/2026 00:35
 3a282eef-591b-4c69-b13c-b0ba966119c8,refund.clothing,available,32.99,32.99,high,low,6,namesilo,,,29/09/2026 07:57
-fc0dbffa-578e-4b05-b833-cf9b8ac4d167,arquebus.clothing,available,31.98,35.68,high,low,8,namecheap,,,20/09/2026 08:40
+fc0dbffa-578e-4b05-b833-cf9b8ac4d167,arquebus.clothing,available,31.98,35.68,medium,low,8,namecheap,,,20/09/2026 08:40
 7a1c1a89-6cbe-4504-803b-051092c77230,alright.clothing,available,32.99,32.99,high,low,7,namesilo,,,22/09/2026 01:15
 7959f377-ea34-4296-8bff-675fc877602e,rican.clothing,available,32.99,32.99,high,low,5,namesilo,,,25/09/2026 13:13
 ce223a5c-c4d8-4d3a-801a-48bc2f06bfa9,hoary.clothing,available,19.99,46.99,medium,low,5,name.com,,,20/08/2026 19:20
-2d5b2344-10ee-42af-ae92-edd9e05adea8,jocular.clothing,available,19.99,46.99,high,low,7,name.com,,,22/08/2026 12:57
+ab1092a3-4f49-4148-a294-6522de5e2fda,intestines.clothing,available,32.99,32.99,low,low,10,namesilo,,,30/09/2026 22:51
+2d5b2344-10ee-42af-ae92-edd9e05adea8,jocular.clothing,available,19.99,46.99,medium,low,7,name.com,,,22/08/2026 12:57
+ea83775a-a536-4ff3-8e32-61579675b138,littlefield.clothing,available,32.99,32.99,high,low,11,namesilo,,,30/09/2026 06:06
 e96473cd-4dd7-4848-8e45-c6b057309059,sentenced.clothing,available,25.2,25.2,low,low,9,cloudflare,,,28/09/2026 17:52
 8fade236-f6b5-45d7-ae2a-e5cf89fc1f07,overmuch.clothing,available,31.98,35.68,medium,low,8,namecheap,,,04/09/2026 21:13
 9c71f882-d885-429d-9ab9-f179e8f75fc7,trophic.clothing,available,31.98,35.68,medium,low,7,namecheap,,,11/09/2026 20:22
@@ -126,6 +133,7 @@ a30609d0-8086-4b3b-ac62-c1c97d3b8c04,syncopated.clothing,available,31.98,35.68,h
 4b7a9d78-8416-4c86-9ab0-e91abfe49a87,conic.clothing,available,19.99,46.99,high,low,5,name.com,,,12/08/2026 20:39
 dcce22ff-6832-4e8a-b0fe-1d8f998923af,barley.clothing,available,32.99,32.99,high,low,6,namesilo,,,22/09/2026 06:33
 2c250ee1-940f-4f18-ba62-b90e193666e2,penetrate.clothing,available,10.81,26.26,high,low,9,porkbun,,,28/09/2026 09:30
+0e385ac0-2342-4d26-9fbb-b2d71a9a5bbe,sydenham.clothing,available,10.92,26.97,medium,low,8,dynadot,,,30/09/2026 17:11
 1b96a692-f15f-4671-9301-2b2a8fd79943,thievery.clothing,available,31.98,35.68,medium,low,8,namecheap,,,11/09/2026 13:20
 dba988d4-4eb4-4d7c-af4d-0a795991c03f,chimney.clothing,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 08:40
 0927f653-18dd-4f9a-8667-21f3250724e0,chapel.clothing,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 01:39
@@ -135,9 +143,10 @@ f72934e6-52c4-4a98-a8bd-caa48bce9c81,polish.clothing,available,32.99,32.99,high,
 589c23c6-6eca-4b03-9052-187d997e5828,estimates.clothing,available,32.99,32.99,medium,low,9,namesilo,,,20/09/2026 04:10
 5811bd17-c2d9-4c86-a36a-9e96ef1c5dc8,berretta.clothing,available,32.99,32.99,medium,low,8,namesilo,,,23/09/2026 10:07
 ae3a21a4-fbfc-482d-8211-867cc800cd15,banderilla.clothing,available,32.99,32.99,medium,low,10,namesilo,,,22/09/2026 01:12
-dc68b270-9cdf-4d9f-bcb9-2880c49854fa,indistinct.clothing,available,19.99,46.99,high,low,10,name.com,,,22/08/2026 03:14
+6ca8dfdc-d135-4ad9-9a1f-8e45d99cbf2b,noc.clothing,premium,36.32,72.57,high,low,3,porkbun,,,01/10/2026 03:06
+dc68b270-9cdf-4d9f-bcb9-2880c49854fa,indistinct.clothing,available,19.99,46.99,medium,low,10,name.com,,,22/08/2026 03:14
 32c23c61-826d-4001-bbd0-09cbe05c3144,aquitania.clothing,available,32.99,32.99,medium,low,9,namesilo,,,19/09/2026 23:18
-6df62af4-600b-489a-a60f-6b907d07e160,dictator.clothing,available,19.99,46.99,high,low,8,name.com,,,07/08/2026 19:17
+6df62af4-600b-489a-a60f-6b907d07e160,dictator.clothing,available,19.99,46.99,medium,low,8,name.com,,,07/08/2026 19:17
 5f4b89e6-8a55-496b-89cf-adc6a67ac44d,barebacked.clothing,available,19.99,46.99,medium,low,10,name.com,,,08/08/2026 18:44
 09b6fb83-ec4f-4320-a38d-dbebbf167120,forehead.clothing,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 04:37
 c777c158-0691-475c-8a5e-5280f743485e,wolfsbane.clothing,available,32.99,32.99,medium,low,9,namesilo,,,17/09/2026 02:06
@@ -149,7 +158,7 @@ a89be400-9f88-44a6-aa9d-ed5198b986b7,muslim.clothing,available,19.99,46.99,high,
 26ab14b0-81ab-4e2a-bd64-f70c291be2da,colbert.clothing,available,25.2,25.2,medium,low,7,cloudflare,,,27/09/2026 12:41
 d869598d-fc8a-4519-bf2b-89a987468dd0,gregg.clothing,available,19.99,,high,low,5,name.com,,,
 ca79b649-7c10-477e-8a9d-b3f8eab735bc,aspects.clothing,available,32.99,32.99,medium,low,7,namesilo,,,28/09/2026 23:07
-33eebd6b-aed0-4320-b816-68c306b16b40,supermarket.clothing,available,19.99,,high,low,11,name.com,,,
+33eebd6b-aed0-4320-b816-68c306b16b40,supermarket.clothing,available,32.99,32.99,high,low,11,namesilo,,,01/10/2026 05:02
 ad0a59b8-9c71-4e03-b79b-7180b100230c,crazed.clothing,available,19.99,46.99,medium,low,6,name.com,,,13/08/2026 05:31
 5e6b6e00-1538-4724-bf5e-cf6f286e6ed3,yearbook.clothing,available,32.99,32.99,high,low,8,namesilo,,,28/09/2026 11:22
 1e0ccc33-fe21-4d36-9fbf-feda5d216fff,steuben.clothing,available,32.99,32.99,medium,low,7,namesilo,,,22/09/2026 07:05
@@ -163,7 +172,7 @@ f5022e6a-c34e-4c0b-b605-c0e7bcce7a46,latticed.clothing,available,19.99,46.99,med
 d8a8ba80-8eda-477f-9d37-16ebba0bcd74,jolson.clothing,available,32.99,32.99,medium,low,6,namesilo,,,18/09/2026 01:21
 b893c6fc-a5e2-4539-bff6-e042c8efe55f,averroes.clothing,available,31.98,35.68,medium,low,8,namecheap,,,16/09/2026 18:56
 f79beed8-1770-45d5-b62d-e10af721b436,incline.clothing,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 23:48
-0ea6bcc3-4b4e-4d90-9aec-fd31fef12e66,hartford.clothing,available,10.92,26.97,high,low,8,dynadot,,,28/09/2026 18:33
+0ea6bcc3-4b4e-4d90-9aec-fd31fef12e66,hartford.clothing,available,10.92,26.97,medium,low,8,dynadot,,,28/09/2026 18:33
 95c9f7f5-fc3f-4377-aba0-c8ac5960aaee,carbonic.clothing,available,19.99,46.99,medium,low,8,name.com,,,11/08/2026 18:37
 824a8c96-5aa2-4fcd-8acb-11370171f3e8,bootleg.clothing,available,31.98,35.68,high,low,7,namecheap,,,22/09/2026 21:19
 446434de-0691-4b03-a7b6-9f6f5c1a234f,perforated.clothing,available,31.98,35.68,high,low,10,namecheap,,,08/09/2026 16:52
@@ -175,7 +184,9 @@ ecd37e9d-4eac-4f03-a86f-b86cdedc1c62,contrabass.clothing,available,19.99,46.99,m
 500e00b1-5d8e-442a-be80-a3bc12c03aba,documentation.clothing,available,19.99,,high,low,13,name.com,,,
 baf90eeb-2cca-48ec-b7c8-798796409c3f,maternity.clothing,premium,220,220,high,low,9,dynadot,,,28/09/2026 19:52
 f5705ef4-4775-46b0-ac38-d1c9ce38d5ab,irc.clothing,available,25.2,25.2,high,low,3,cloudflare,,,28/09/2026 20:54
+f693077a-1c01-4cc3-9406-89a3bd80c7b8,tris.clothing,available,32.99,32.99,high,low,4,namesilo,,,30/09/2026 12:39
 a0fa8ca8-327d-4cd2-80ff-9e1e307cf247,niggle.clothing,available,31.98,35.68,medium,low,6,namecheap,,,23/09/2026 13:17
+9bbfaaa3-116f-4cac-b577-7e23b4cb3d03,thorndike.clothing,available,26.08,26.08,medium,low,9,spaceship,,,01/10/2026 01:41
 792f7158-e539-465b-962e-48f87488c1ed,lohan.clothing,available,31.98,35.68,medium,low,5,namecheap,,,20/09/2026 05:07
 8adfac38-beeb-4f73-a007-26475a71f817,accompanying.clothing,available,32.99,32.99,medium,low,12,namesilo,,,29/09/2026 06:23
 13de3f35-d51a-4d71-83bc-31acabc30667,bettering.clothing,available,19.99,46.99,high,low,9,name.com,,,09/08/2026 18:11
@@ -190,19 +201,21 @@ d4da2a58-db97-4dfe-9cad-4d30e67aa81e,enforce.clothing,available,32.99,32.99,high
 5ee8ec92-dd65-4c7e-b7ff-c6a88ea52415,casino.clothing,available,32.99,32.99,high,medium,6,namesilo,,,27/09/2026 12:19
 da20da03-7891-4d07-ba10-78613d6f6e61,uuq.clothing,available,32.99,32.99,medium,low,3,namesilo,,,20/09/2026 22:18
 fb9bcc86-ddaa-4ee2-b9e6-1caf683738c1,scientist.clothing,available,32.99,32.99,high,low,9,namesilo,,,28/09/2026 12:32
+383ebc8f-7441-49c6-8a3d-9d2d069e876d,commute.clothing,available,25.2,25.2,high,low,7,cloudflare,,,30/09/2026 09:14
 12173558-9871-4b4b-893a-f84a23de6c76,tel.clothing,premium,500,,high,low,3,name.com,,,
 ede8f89e-fb58-43bc-bae9-ce4d2ad1c817,repeating.clothing,available,31.98,35.68,high,low,9,namecheap,,,28/09/2026 06:41
 5871a2d2-8d7f-4b15-a413-0cccf4c5f9c8,aberrance.clothing,available,32.99,32.99,medium,low,9,namesilo,,,16/09/2026 15:12
 0f0db2cb-5078-457d-9e8d-88f08dbd87b4,advise.clothing,available,31.98,35.68,high,low,6,namecheap,,,27/09/2026 03:36
 6d1185bf-8796-48b2-9575-5d3ea17a83bc,windflower.clothing,available,32.99,32.99,high,low,10,namesilo,,,19/09/2026 05:19
-b317ff98-afd1-42bf-8891-8b601b19f30d,pyrenees.clothing,available,19.99,,high,low,8,name.com,,,
+b317ff98-afd1-42bf-8891-8b601b19f30d,pyrenees.clothing,available,31.98,35.68,high,low,8,namecheap,,,30/09/2026 08:57
 9d91542e-6b44-44d9-9270-151c45137bec,nigger.clothing,available,26.08,26.08,high,medium,6,spaceship,,,29/09/2026 19:25
 a0ae51cf-0562-4860-86d9-f79ad3469da5,conquered.clothing,available,32.99,32.99,medium,low,9,namesilo,,,28/09/2026 23:05
-03706095-84cc-4fec-a355-0285c9a63932,ship.clothing,available,,,high,low,4,,,,
+990952dd-671f-4e8e-bc31-1f081049b5a2,mancini.clothing,available,10.92,26.97,medium,low,7,dynadot,,,30/09/2026 13:51
 dbde5981-e494-46ee-91d7-0efdca54dc5c,monolithic.clothing,available,19.99,46.99,medium,low,10,name.com,,,24/08/2026 16:43
 671e629a-d2c7-4433-abdc-d463db4fc58d,drone.clothing,available,32.99,32.99,high,medium,5,namesilo,,,25/09/2026 13:01
 918d7969-6266-4d3b-88eb-3207dc862958,inwards.clothing,available,19.99,46.99,high,low,7,name.com,,,21/08/2026 23:32
 bee3f1a5-fea0-4ea0-8161-b0308ce40237,pickle.clothing,available,31.98,35.68,high,low,6,namecheap,,,29/09/2026 06:57
+a8639d99-d3f2-4e98-a05c-91bc60b9ce46,allahabad.clothing,available,26.08,26.08,medium,low,9,spaceship,,,30/09/2026 05:15
 04254925-5553-4ca9-980b-589691d0aa93,arrangements.clothing,available,32.99,32.99,medium,low,12,namesilo,,,27/09/2026 10:40
 3762de9a-143c-4928-81aa-01acd369c9a8,coastward.clothing,available,31.98,35.68,medium,low,9,namecheap,,,14/09/2026 07:23
 5c4886b0-a989-4f6c-82c7-7d1ef78659ac,cauterize.clothing,available,19.99,46.99,medium,low,9,name.com,,,11/08/2026 14:34
@@ -213,28 +226,28 @@ bee3f1a5-fea0-4ea0-8161-b0308ce40237,pickle.clothing,available,31.98,35.68,high,
 2abea416-1826-49a1-94b3-dc937ebb1b82,fallacious.clothing,available,19.99,46.99,medium,low,10,name.com,,,13/08/2026 21:08
 5b639ad6-8a58-4631-bf33-9a92852c1f97,als.clothing,premium,78.54,78.54,high,low,3,namesilo,,,18/09/2026 14:14
 434a5230-3088-4188-a1ff-3efad5a82475,devout.clothing,available,19.99,46.99,high,low,6,name.com,,,14/08/2026 05:17
-5bd4e6a6-27b9-4fb5-8808-01d4f10e933e,hipaa.clothing,available,19.99,,high,low,5,name.com,,,
+5bd4e6a6-27b9-4fb5-8808-01d4f10e933e,hipaa.clothing,available,19.99,,medium,low,5,name.com,,,
 a6e0a937-fe5f-405c-be14-aaadc5de1e65,plead.clothing,available,32.99,32.99,high,low,5,namesilo,,,28/09/2026 15:36
 006f82e0-99df-45c4-aa2d-1a8ad1f69aca,composure.clothing,available,19.99,46.99,high,low,9,name.com,,,11/08/2026 14:55
 354f36cd-e07b-4bce-add1-a51196408c72,heavyset.clothing,available,19.99,46.99,medium,low,8,name.com,,,21/08/2026 05:31
 27271416-c69f-4a9a-8f71-7a10b73fada8,gamble.clothing,available,32.99,32.99,high,low,6,namesilo,,,17/09/2026 10:37
 be5906e6-33ad-4cd6-a0fc-03d503aca22c,counsel.clothing,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 01:44
 b58479fe-6560-40f4-970e-b6aac6e800c3,contract.clothing,available,31.98,35.68,high,low,8,namecheap,,,03/09/2026 13:23
-bee80a94-75fc-4202-8db6-91fb87f6c779,superheroes.clothing,available,32.99,32.99,high,low,11,namesilo,,,21/09/2026 05:42
+bee80a94-75fc-4202-8db6-91fb87f6c779,superheroes.clothing,available,32.99,32.99,medium,low,11,namesilo,,,21/09/2026 05:42
 969e7f01-4e80-475b-bf5e-37a4a41e942f,discussing.clothing,available,32.99,32.99,medium,low,10,namesilo,,,27/09/2026 11:01
 c4ea9b51-73a7-4d09-b03b-54a03ad7387a,vanish.clothing,available,25.2,25.2,high,low,6,cloudflare,,,29/09/2026 14:13
 ef51149d-9b3b-4cb5-a498-8f92bf0fe0d2,farrell.clothing,available,31.98,35.68,medium,low,7,namecheap,,,25/09/2026 05:20
-768f0108-6a96-4758-bf26-ee6c678ade5c,ghostly.clothing,available,19.99,46.99,high,low,7,name.com,,,06/08/2026 05:28
+768f0108-6a96-4758-bf26-ee6c678ade5c,ghostly.clothing,available,19.99,46.99,medium,low,7,name.com,,,06/08/2026 05:28
 e80dff18-1ae3-40f6-a47e-dbef70bef375,heller.clothing,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 09:59
 56162e88-e662-489b-86b2-9e131e79da5d,reflection.clothing,available,32.99,32.99,high,low,10,namesilo,,,25/09/2026 22:24
 55a0c5a8-5443-4f8b-aa74-f647a296c15f,startling.clothing,available,31.98,35.68,medium,low,9,namecheap,,,10/09/2026 19:02
-42beff49-a39a-4191-9006-3b6a578294d7,ramsay.clothing,available,32.99,32.99,high,low,6,namesilo,,,25/09/2026 15:54
+42beff49-a39a-4191-9006-3b6a578294d7,ramsay.clothing,available,32.99,32.99,medium,low,6,namesilo,,,25/09/2026 15:54
 55d6eda2-a3fc-4ab8-bbc9-9fb8c9be860b,cecal.clothing,available,19.99,46.99,medium,low,5,name.com,,,11/08/2026 12:54
 bd7acedd-e589-4fd5-8d84-eb20d3f7de6d,joan.clothing,available,32.99,32.99,high,low,4,namesilo,,,25/09/2026 11:39
 4a52b08f-1f63-4485-8844-7a9d2e286387,theirs.clothing,available,19.99,,medium,low,6,name.com,,,
 13d8de48-3b3f-429a-8537-995c05de87ec,mutiny.clothing,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 13:30
 727e63de-89c1-4f1c-96be-4737a7a2757a,rubbed.clothing,available,32.99,32.99,high,low,6,namesilo,,,17/09/2026 07:54
-1c4e913f-a5c2-42c8-8bb5-d16a69c22745,convince.clothing,available,19.99,,high,low,8,name.com,,,
+1c4e913f-a5c2-42c8-8bb5-d16a69c22745,convince.clothing,available,26.08,26.08,high,low,8,spaceship,,,30/09/2026 18:01
 70108b8b-eaf0-459e-b052-b7d2a79c49e6,glut.clothing,available,32.99,32.99,medium,low,4,namesilo,,,23/09/2026 17:21
 f19da160-cab9-47f4-82bc-2b1b1b9e4194,miotic.clothing,available,19.99,46.99,medium,low,6,name.com,,,25/08/2026 01:00
 7ca517f4-792f-4dc9-9428-bf2357752b29,antonius.clothing,available,31.98,35.68,medium,low,8,namecheap,,,19/09/2026 13:34
@@ -242,10 +255,10 @@ f19da160-cab9-47f4-82bc-2b1b1b9e4194,miotic.clothing,available,19.99,46.99,mediu
 0746ee9b-0b7d-4890-af39-354a0a1929f9,galilean.clothing,available,19.99,46.99,medium,low,8,name.com,,,18/08/2026 19:37
 f8871dc9-b288-46ca-8085-aea6388eb00a,dahna.clothing,available,32.99,32.99,medium,low,5,namesilo,,,19/09/2026 23:21
 eb53a40a-5bf2-41c3-b990-eac227fe3fbe,mandarin.clothing,available,31.98,35.68,high,low,8,namecheap,,,23/09/2026 04:17
-9b2c0658-0a71-4c10-9dd9-3429d5abcc8d,medal.clothing,available,19.99,,high,low,5,name.com,,,
+9b2c0658-0a71-4c10-9dd9-3429d5abcc8d,medal.clothing,available,25.2,25.2,high,low,5,cloudflare,,,30/09/2026 02:12
 1651168c-80ce-4429-8e92-d77ef1a443d7,staffing.clothing,available,31.98,35.68,high,low,8,namecheap,,,28/09/2026 02:47
 8f814ef0-1948-4165-8570-fad6dd7c5d7a,fills.clothing,available,25.2,25.2,medium,low,5,cloudflare,,,29/09/2026 11:18
-9e038259-28f6-4e8f-8d62-787d48e22731,consist.clothing,available,19.99,,high,low,7,name.com,,,
+9e038259-28f6-4e8f-8d62-787d48e22731,consist.clothing,available,25.2,25.2,high,low,7,cloudflare,,,30/09/2026 17:36
 6d120f59-e53e-4ba1-b65f-b07c652778cd,bilocation.clothing,available,32.99,32.99,medium,low,10,namesilo,,,23/09/2026 16:51
 4c777de2-5c9b-46db-9afc-96b9451fc9b5,diagnosed.clothing,available,25.2,25.2,medium,low,9,cloudflare,,,28/09/2026 23:36
 dafbeb14-6ea0-4323-9af6-7808ef65cdbf,water.clothing,available,31.98,35.68,high,medium,5,namecheap,,,08/09/2026 13:05
@@ -257,21 +270,24 @@ e2b269df-ba98-41b4-a6f4-3e868a95955e,numbered.clothing,available,32.99,32.99,med
 68d3dae9-a8ae-4d87-9151-482c676c1357,vents.clothing,available,32.99,32.99,medium,low,5,namesilo,,,21/09/2026 06:42
 a3b23c6e-391d-4cee-a1c0-731df84cbcfb,consistency.clothing,available,32.99,32.99,high,low,11,namesilo,,,29/09/2026 16:04
 3497c11c-da39-4ae7-8b80-95801a7d46e6,unidentified.clothing,available,32.99,32.99,medium,low,12,namesilo,,,28/09/2026 08:18
-4a241e4a-bd68-4689-bd81-bbad6514d180,appointment.clothing,available,32.99,32.99,high,low,11,namesilo,,,28/09/2026 06:29
+4a241e4a-bd68-4689-bd81-bbad6514d180,appointment.clothing,available,26.08,26.08,high,low,11,spaceship,,,30/09/2026 23:10
 99167359-a969-4ded-b1bb-139b20f26f47,cheltenham.clothing,available,10.81,26.26,medium,low,10,porkbun,,,28/09/2026 12:18
-154bfc39-b39d-49f2-afd3-20d2211f8bc9,astound.clothing,available,19.99,,high,low,7,name.com,,,
+154bfc39-b39d-49f2-afd3-20d2211f8bc9,astound.clothing,available,26.08,26.08,high,low,7,spaceship,,,30/09/2026 15:00
 b40d43db-1fb1-4171-9ea6-51cd2b2e66b6,unruly.clothing,available,19.99,46.99,high,low,6,name.com,,,10/08/2026 17:42
-1575697b-1545-434b-ad4e-779d8031c343,laudable.clothing,available,19.99,46.99,high,low,8,name.com,,,06/08/2026 07:01
+ce239caf-0efa-46d1-a36a-b245dc928270,cache.clothing,available,55.99,55.99,high,low,5,godaddy,,,01/10/2026 01:15
+1575697b-1545-434b-ad4e-779d8031c343,laudable.clothing,available,19.99,46.99,medium,low,8,name.com,,,06/08/2026 07:01
 d36f5348-b550-4ad0-bd45-4d783e5b9412,huffman.clothing,available,10.81,26.26,medium,low,7,porkbun,,,29/09/2026 15:25
 70bf5f17-d035-442d-9780-b5c1564ee38c,norbert.clothing,available,32.99,32.99,medium,low,7,namesilo,,,28/09/2026 22:05
 bc397661-d90f-44d6-950f-2b2c9928c8bf,chilean.clothing,available,19.99,46.99,high,low,7,name.com,,,12/08/2026 05:15
 91f05c0f-7822-4dfe-89c0-e7f35e8e7236,queried.clothing,available,31.98,35.68,medium,low,7,namecheap,,,20/09/2026 15:21
 a53fa88e-86cc-4c3f-a86b-359269627ef8,moulds.clothing,available,32.99,32.99,medium,low,6,namesilo,,,20/09/2026 13:57
+0be78ccf-9eef-4e18-a385-fbf0a599b663,edi.clothing,available,32.99,32.99,high,low,3,namesilo,,,30/09/2026 23:37
 2631a593-efc9-44a7-8ccb-22f6213ffd0d,sort.clothing,available,32.99,32.99,high,low,4,namesilo,,,25/09/2026 12:43
-37bb4fdf-ebe7-47a6-9d1b-f37f45f7fb5c,nuisance.clothing,available,25.2,25.2,high,low,8,cloudflare,,,29/09/2026 19:51
+37bb4fdf-ebe7-47a6-9d1b-f37f45f7fb5c,nuisance.clothing,available,25.2,25.2,medium,low,8,cloudflare,,,29/09/2026 19:51
 24acbc6c-4166-4853-bce5-3380a2c50654,ayr.clothing,available,32.99,32.99,high,low,3,namesilo,,,21/09/2026 10:41
+85708ce6-89a0-4c39-8301-60896acdfeb2,seminary.clothing,available,32.99,32.99,high,low,8,namesilo,,,01/10/2026 03:37
 c0d227d6-f68a-4a30-a4a5-2a8a1db34315,reprints.clothing,available,32.99,32.99,medium,low,8,namesilo,,,28/09/2026 09:09
-a4da02c8-2c37-45e9-8976-5cc653c9d4a4,tradition.clothing,available,19.99,,high,low,9,name.com,,,
+a4da02c8-2c37-45e9-8976-5cc653c9d4a4,tradition.clothing,available,26.08,26.08,high,low,9,spaceship,,,30/09/2026 13:45
 9e8f84e0-5759-4d3c-aba3-f3521a03d9d0,extent.clothing,available,32.99,32.99,high,low,6,namesilo,,,28/09/2026 05:39
 21e84332-2bb3-465a-82db-8f452fc646fe,cease.clothing,available,10.81,26.26,medium,low,5,porkbun,,,27/09/2026 12:23
 aab4c4bf-d28b-4adc-b6d4-f850354eb28b,angiogram.clothing,available,32.99,32.99,medium,low,9,namesilo,,,19/09/2026 06:13
@@ -282,7 +298,7 @@ aab4c4bf-d28b-4adc-b6d4-f850354eb28b,angiogram.clothing,available,32.99,32.99,me
 66ca87e1-7cd1-4e28-8f1c-3a9cf06ee13d,frustrated.clothing,available,32.99,32.99,medium,low,10,namesilo,,,24/09/2026 10:57
 202c632f-ab33-4bf2-8982-0b5b20c64a60,jacket.clothing,available,10.92,26.97,high,low,6,dynadot,,,29/09/2026 12:13
 98995264-2bc5-4c5a-9dbb-107ca60d2269,shiner.clothing,available,32.99,32.99,medium,low,6,namesilo,,,24/09/2026 00:40
-59e39ded-e705-429c-86bf-e4a292f491c5,amazona.clothing,available,31.98,35.68,high,low,7,namecheap,,,18/09/2026 16:23
+59e39ded-e705-429c-86bf-e4a292f491c5,amazona.clothing,available,31.98,35.68,medium,low,7,namecheap,,,18/09/2026 16:23
 b659b816-0b10-43fd-b289-561976b34c54,weighty.clothing,available,19.99,46.99,medium,low,7,name.com,,,12/08/2026 15:37
 3c341869-a4b6-4046-a34a-341e34445c88,begotten.clothing,available,19.99,46.99,medium,low,8,name.com,,,09/08/2026 09:11
 03857546-3e14-4258-87e7-9e3f00985e3b,bahraini.clothing,available,19.99,46.99,medium,low,8,name.com,,,08/08/2026 08:36
@@ -293,15 +309,15 @@ a4c64a4c-2519-428f-b64c-ff8d5b444cff,podium.clothing,available,32.99,32.99,high,
 fb40eae1-b1cc-401c-a919-4fe9da0160b4,slaves.clothing,available,10.81,26.26,low,low,6,porkbun,,,27/09/2026 23:05
 c03e13c5-785f-4594-8c8f-9ee691337620,stonewalls.clothing,available,31.98,35.68,low,low,10,namecheap,,,20/09/2026 14:03
 ceb50292-d414-46c1-be1f-bbbe084a1830,clocks.clothing,available,32.99,32.99,high,low,6,namesilo,,,18/09/2026 06:14
-94b7bedb-a053-4a26-8c1c-dedeea5cddb0,symbolical.clothing,available,19.99,46.99,high,low,10,name.com,,,16/08/2026 09:33
+94b7bedb-a053-4a26-8c1c-dedeea5cddb0,symbolical.clothing,available,19.99,46.99,medium,low,10,name.com,,,16/08/2026 09:33
 bc8452d5-c806-4e1b-8b43-2089e641de84,wellington.clothing,available,32.99,32.99,high,low,10,namesilo,,,20/09/2026 11:08
-7260c368-3cb4-4a3c-8f46-98a9ac3e7e81,polythene.clothing,available,19.99,,medium,low,9,name.com,,,
+7260c368-3cb4-4a3c-8f46-98a9ac3e7e81,polythene.clothing,available,32.99,32.99,medium,low,9,namesilo,,,30/09/2026 07:10
 83819203-2c86-4f7f-90f2-df0cf21ca1b9,pens.clothing,available,31.98,35.68,medium,low,4,namecheap,,,20/09/2026 04:15
 9c0db181-1cd4-4b4c-bb6d-5bd6aaf69186,dimension.clothing,available,32.99,32.99,high,low,9,namesilo,,,21/09/2026 02:17
 ef4986fd-2c7f-40cb-b15e-d1dd337e89d4,brushed.clothing,available,19.99,46.99,high,low,7,name.com,,,11/08/2026 06:58
 17c39635-ddcd-4e21-a5cb-f39f5f205100,personals.clothing,available,31.98,35.68,medium,low,9,namecheap,,,08/09/2026 05:02
 ef191ead-7291-40d7-a768-45604880fe86,menacing.clothing,available,19.99,46.99,medium,low,8,name.com,,,24/08/2026 19:55
-0925c8d5-690b-4bee-9d07-8105008bd2df,kampala.clothing,available,31.98,35.68,high,low,7,namecheap,,,24/09/2026 12:28
+0925c8d5-690b-4bee-9d07-8105008bd2df,kampala.clothing,available,31.98,35.68,medium,low,7,namecheap,,,24/09/2026 12:28
 646d1191-d49a-4914-97d7-3cecc6f791f8,aragonite.clothing,available,32.99,32.99,medium,low,9,namesilo,,,19/09/2026 23:43
 ca92e80a-af63-4772-9cd5-b8775aa3303b,saving.clothing,available,26.08,26.08,high,low,6,spaceship,,,27/09/2026 18:08
 e8cd1adb-ba75-40f4-8ee7-bc9bb0ff99cc,birdhouse.clothing,available,31.98,35.68,high,low,9,namecheap,,,23/09/2026 20:39
@@ -318,17 +334,20 @@ d1097a45-bd20-4477-af4d-714316b0b930,attester.clothing,available,31.98,35.68,med
 897e2702-a2b5-4d04-997e-cbaf90a030a3,volt.clothing,available,31.98,35.68,high,low,4,namecheap,,,13/09/2026 00:34
 8b9e28f6-171b-4bca-bf45-dc31e401009f,nightfall.clothing,available,31.98,35.68,high,low,9,namecheap,,,11/09/2026 21:44
 f50f6a8b-efa3-4b25-925e-63e99074df1e,seniors.clothing,available,32.99,32.99,medium,low,7,namesilo,,,29/09/2026 05:13
-1ceed899-819f-4a0b-95e2-ce3b1d475a76,orangutan.clothing,available,19.99,,high,low,9,name.com,,,
+1ceed899-819f-4a0b-95e2-ce3b1d475a76,orangutan.clothing,available,32.99,32.99,high,low,9,namesilo,,,30/09/2026 06:10
 59b59f46-359c-4e69-bd8f-6f700a778b7b,divided.clothing,available,19.99,46.99,medium,low,7,name.com,,,14/08/2026 13:42
 9a1d05f8-72a3-4e8e-90f5-3a57e0ac6c98,barberry.clothing,available,32.99,32.99,medium,low,8,namesilo,,,22/09/2026 04:51
 7aae52b1-b33d-4c57-8abd-2932df65062c,ney.clothing,available,10.92,26.97,medium,low,3,dynadot,,,29/09/2026 12:06
 c7d88b89-8ac9-4b1d-b55b-fd2007b33e36,containers.clothing,available,32.99,32.99,medium,low,10,namesilo,,,19/09/2026 01:32
 292eeae2-d9a3-4e08-8219-a09a3b41d71e,navy.clothing,available,31.98,35.68,high,low,4,namecheap,,,29/09/2026 13:12
-c118ca3c-3226-493f-ac3b-d520fb3ab081,centrist.clothing,available,19.99,46.99,high,low,8,name.com,,,12/08/2026 00:14
+0f01c41c-4f6e-4633-870f-ee42af3a9327,unloading.clothing,available,32.99,32.99,medium,low,9,namesilo,,,30/09/2026 11:15
+c118ca3c-3226-493f-ac3b-d520fb3ab081,centrist.clothing,available,19.99,46.99,medium,low,8,name.com,,,12/08/2026 00:14
 9253241c-3a12-45dc-9e97-e47e898d9841,marston.clothing,available,10.81,26.26,medium,low,7,porkbun,,,28/09/2026 16:09
 3d3d0566-ce2b-4c0e-a710-a3a0eceda4ab,anemic.clothing,available,19.99,46.99,medium,low,6,name.com,,,
+e2a0bc2c-cc90-4118-a972-53188f2a1ec3,upload.clothing,available,32.99,32.99,high,low,6,namesilo,,,01/10/2026 04:31
 ca3afe7b-226b-47d7-8a98-e932a02b20e7,endocrinal.clothing,available,19.99,46.99,medium,low,10,name.com,,,17/08/2026 01:02
-2a18530a-89d3-42bb-bdc6-8369b98215df,page.clothing,available,19.99,,high,low,4,name.com,,,
+e4945a47-fe33-450a-9999-e1a6e7301402,rac.clothing,available,26.08,26.08,high,low,3,spaceship,,,30/09/2026 04:10
+2a18530a-89d3-42bb-bdc6-8369b98215df,page.clothing,available,26.08,26.08,high,medium,4,spaceship,,,30/09/2026 06:20
 a36bce25-6948-416a-b180-d3a06bafaa48,frankenstein.clothing,available,26.08,26.08,high,low,12,spaceship,,,28/09/2026 21:01
 10f27c78-00e0-4db1-a2cb-3a1ecf376713,enlightened.clothing,available,26.08,26.08,high,low,11,spaceship,,,29/09/2026 20:59
 b604dd7d-931c-41f4-adc0-a4fb4ca1e511,payable.clothing,available,19.99,46.99,high,low,7,name.com,,,12/08/2026 16:58
@@ -337,10 +356,11 @@ e770e72a-a9b8-48c2-92f8-164dfb4c0afc,referable.clothing,available,19.99,46.99,me
 3be73274-4c4b-4afe-b466-5cf149a812b9,hedged.clothing,available,19.99,46.99,medium,low,6,name.com,,,21/08/2026 05:50
 2707d565-4e48-4be0-b847-4221ba2f4547,aquino.clothing,available,10.92,26.97,medium,low,6,dynadot,,,28/09/2026 22:09
 12581e8e-c37a-4bcd-9783-827cb5dcd319,lanka.clothing,available,32.99,32.99,high,low,5,namesilo,,,25/09/2026 15:46
-86c0ed1f-a740-4089-be9a-33301a3df3cc,heinrich.clothing,available,32.99,32.99,high,low,8,namesilo,,,25/09/2026 21:51
+86c0ed1f-a740-4089-be9a-33301a3df3cc,heinrich.clothing,available,32.99,32.99,medium,low,8,namesilo,,,25/09/2026 21:51
 3e300b5f-3d8e-4ba7-bc89-fd83b2c69986,banker.clothing,available,32.99,32.99,high,low,6,namesilo,,,22/09/2026 02:46
 8c0da845-640a-4636-9317-6bd9e916da8c,matted.clothing,available,19.99,46.99,medium,low,6,name.com,,,24/08/2026 16:52
 3e6a4e5b-c35a-4c26-adf6-ed4ccf0fcee6,tia.clothing,available,10.92,26.97,high,low,3,dynadot,,,29/09/2026 20:30
+0c00ae22-8226-401d-be55-d3b382996694,accumulation.clothing,available,32.99,32.99,high,low,12,namesilo,,,30/09/2026 22:26
 c967da3d-a673-452c-8cd6-0e340c841936,jade.clothing,available,19.99,46.99,high,low,4,name.com,,,22/08/2026 11:50
 486bf0f4-e1f6-4195-ac99-06c330ed57f6,obscene.clothing,available,19.99,46.99,high,low,7,name.com,,,
 5ab3fbf3-893c-4f7f-930f-94c31c07fc71,snacks.clothing,available,10.81,26.26,high,low,6,porkbun,,,30/09/2026 00:03
@@ -352,9 +372,10 @@ c463638f-c762-4ab0-86ab-a9b2233d0d96,adjustor.clothing,available,32.99,32.99,med
 4078f5cd-6571-4758-85ce-67f9fd34152a,aida.clothing,available,25.2,25.2,high,low,4,cloudflare,,,29/09/2026 22:17
 1ea47f91-d9d9-4424-a584-be670c1cadc4,conduit.clothing,available,32.99,32.99,high,low,7,namesilo,,,24/09/2026 17:11
 1b3ff1ce-52ab-4062-bca7-ed692efafe99,chapstick.clothing,available,19.99,,high,low,9,name.com,,,
+caf66251-8db5-44d4-9304-cafc35f4bb2f,richter.clothing,available,26.08,26.08,high,low,7,spaceship,,,30/09/2026 04:42
 f12a5bd5-3496-4495-8115-e4e848f2fffc,elysian.clothing,available,19.99,46.99,high,low,7,name.com,,,16/08/2026 06:18
 bf44e061-5dda-4055-a659-888bf3a62c34,perfume.clothing,available,32.99,32.99,high,low,7,namesilo,,,27/09/2026 04:02
-327e28e4-ce28-443b-aea4-c45adafe7c6e,asceticism.clothing,available,19.99,46.99,high,low,10,name.com,,,20/09/2026 13:08
+327e28e4-ce28-443b-aea4-c45adafe7c6e,asceticism.clothing,available,19.99,46.99,medium,low,10,name.com,,,20/09/2026 13:08
 daf2c16e-3dc2-49af-8f0b-82ebbb5f1cfb,accordance.clothing,available,32.99,32.99,high,low,10,namesilo,,,16/09/2026 23:00
 81229ed7-ba2f-471b-9090-779bcdae6be7,advertence.clothing,available,32.99,32.99,medium,low,10,namesilo,,,17/09/2026 11:06
 e45c2c3b-4992-45f7-9320-4d35dd59df6b,otoscope.clothing,available,32.99,32.99,medium,low,8,namesilo,,,21/09/2026 04:28
@@ -369,6 +390,7 @@ abeb6f05-18d1-43eb-b494-ff25be17a0a6,specification.clothing,available,19.99,,hig
 05bff3b5-d6e3-481e-9783-23ca0d78e23d,carambola.clothing,available,31.98,35.68,medium,low,9,namecheap,,,21/09/2026 09:14
 b71c97ef-985b-47c5-ac8b-a7272e878937,abbot.clothing,available,32.99,32.99,medium,low,5,namesilo,,,16/09/2026 14:31
 fdb65812-9534-4664-8339-a4e62cf8b6df,kicking.clothing,available,31.98,35.68,high,low,7,namecheap,,,30/09/2026 01:20
+479b8ed8-c8b7-4bd3-ac9e-23994d2dafb5,mont.clothing,available,25.2,25.2,medium,low,4,cloudflare,,,30/09/2026 19:51
 51f4ad7e-c8b8-4c63-9585-e29818d36c53,newborn.clothing,premium,38.94,38.94,high,low,7,namesilo,,,03/09/2026 16:41
 4a81a994-ddd1-4b94-8882-b586a625bb95,dryden.clothing,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 05:32
 4a59e66c-7a78-4f6e-afd5-23bb21d30f9d,treeless.clothing,available,31.98,35.68,medium,low,8,namecheap,,,11/09/2026 19:10
@@ -377,17 +399,18 @@ b2418a12-f5f4-4d9a-8165-c7c3f1e40fca,brackish.clothing,available,19.99,46.99,med
 b18303f0-cf2c-45d0-a050-41c469aef44b,flatfoot.clothing,available,31.98,35.68,medium,low,8,namecheap,,,10/09/2026 16:10
 dee57fc2-2f61-4a1c-a6b4-46eea7b966b9,mauve.clothing,available,19.99,46.99,high,low,5,name.com,,,24/08/2026 17:37
 4785b31d-488d-49fa-8748-f28c0a07af04,allied.clothing,available,32.99,32.99,high,low,6,namesilo,,,22/09/2026 01:28
-db081484-7229-4a4d-8335-e34b1681668e,lunatic.clothing,available,19.99,46.99,high,low,7,name.com,,,13/08/2026 17:47
-64be7482-de7d-4434-bab8-65f99a4a5f39,biting.clothing,available,19.99,46.99,high,low,6,name.com,,,08/08/2026 16:41
+db081484-7229-4a4d-8335-e34b1681668e,lunatic.clothing,available,19.99,46.99,medium,low,7,name.com,,,13/08/2026 17:47
+64be7482-de7d-4434-bab8-65f99a4a5f39,biting.clothing,available,19.99,46.99,medium,low,6,name.com,,,08/08/2026 16:41
 5c8ca803-1edd-4a43-96cc-19b1366097e5,circuit.clothing,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 09:16
 c73d760b-aa66-4adf-b4c4-f891f8c3ca61,available.clothing,available,32.99,32.99,high,low,9,namesilo,,,22/09/2026 14:22
 32cfabf5-7da4-4268-a07b-fe46c985aaf7,diazo.clothing,available,19.99,46.99,medium,low,5,name.com,,,14/08/2026 06:23
 30ef1d88-3f92-4dd8-aee8-53257c4cb997,upended.clothing,available,31.98,35.68,medium,low,7,namecheap,,,12/09/2026 23:06
 6387447f-196d-463c-80fb-fafcf9872516,decca.clothing,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 21:44
+3d4d8d5c-301f-4374-9527-c57403c0adbe,xinhua.clothing,available,25.2,25.2,medium,low,6,cloudflare,,,30/09/2026 05:40
 7038326d-d407-4b9f-a95a-64638179b43b,annexa.clothing,available,31.98,35.68,medium,low,6,namecheap,,,17/09/2026 09:06
-3b85f116-4d68-42f4-93a3-98e7c922a2df,excel.clothing,available,19.99,,high,low,5,name.com,,,
+3b85f116-4d68-42f4-93a3-98e7c922a2df,excel.clothing,available,10.81,26.26,high,low,5,porkbun,,,30/09/2026 19:22
 f97e67bf-9608-4e26-ba32-1d3c16ba891c,thyroid.clothing,available,31.98,35.68,high,low,7,namecheap,,,11/09/2026 15:18
-6f79c509-bd2e-487c-bcc6-639a58d14189,krupp.clothing,available,32.99,32.99,high,low,5,namesilo,,,18/09/2026 06:37
+6f79c509-bd2e-487c-bcc6-639a58d14189,krupp.clothing,available,32.99,32.99,medium,low,5,namesilo,,,18/09/2026 06:37
 88aeec25-9d4a-4229-9b94-381dbf92e9ab,raunchy.clothing,available,19.99,46.99,medium,low,7,name.com,,,09/08/2026 09:41
 7eabf061-0374-426b-9051-fd523e20200a,unwanted.clothing,available,31.98,35.68,high,low,8,namecheap,,,12/09/2026 07:48
 bf240371-6cca-4982-a034-94178c2c6d20,daisy.clothing,available,31.98,35.68,high,low,5,namecheap,,,25/09/2026 04:34
@@ -395,8 +418,8 @@ bf240371-6cca-4982-a034-94178c2c6d20,daisy.clothing,available,31.98,35.68,high,l
 c2051498-0be7-45c7-9e7c-11d7b413c589,slimly.clothing,available,31.98,35.68,medium,low,6,namecheap,,,16/09/2026 02:34
 77f45b27-ca15-423b-b77c-9045dcbcd780,denis.clothing,available,32.99,32.99,high,low,5,namesilo,,,25/09/2026 15:03
 40bb961d-85eb-46e5-a25a-42b7a3db5297,linelike.clothing,available,19.99,46.99,medium,low,8,name.com,,,23/08/2026 15:03
-057caf93-b315-4593-a416-afe0745f27e8,interpret.clothing,available,19.99,,high,low,9,name.com,,,
-31f54827-e8e5-4c3f-ac8d-13a25511a3de,distribution.clothing,available,31.98,35.68,high,low,12,namecheap,,,28/09/2026 04:51
+057caf93-b315-4593-a416-afe0745f27e8,interpret.clothing,available,25.2,25.2,high,low,9,cloudflare,,,30/09/2026 17:52
+31f54827-e8e5-4c3f-ac8d-13a25511a3de,distribution.clothing,available,26.08,26.08,high,low,12,spaceship,,,01/10/2026 02:53
 fcf06b30-6cce-47be-b67b-05bc1a358257,biface.clothing,available,19.99,46.99,medium,low,6,name.com,,,09/08/2026 19:55
 d80802f2-7199-4707-a44f-8022c1e6f5dc,engineering.clothing,available,26.08,26.08,high,low,11,spaceship,,,30/09/2026 01:32
 a9020ffe-8233-4b10-86e7-bb0009ce0a8c,lewes.clothing,available,32.99,32.99,medium,low,5,namesilo,,,28/09/2026 23:03
@@ -406,12 +429,14 @@ bb6d2eb5-46d7-4be7-b738-d502a6d0b29d,reconcile.clothing,available,31.98,35.68,hi
 fe30e547-3f21-4234-bb89-8cbe252464d1,esters.clothing,available,26.08,26.08,low,low,6,spaceship,,,28/09/2026 13:25
 76712b93-db6b-4a1b-9de7-9fd2949c0bc3,baldly.clothing,available,31.98,35.68,medium,low,6,namecheap,,,13/09/2026 23:11
 b80c1c56-cf4f-46b3-affc-982e7b90558f,audience.clothing,available,32.99,32.99,high,low,8,namesilo,,,21/09/2026 02:53
+99fbf1a8-1ef4-4a40-a63f-f0681305c54f,handkerchief.clothing,available,26.08,26.08,high,low,12,spaceship,,,30/09/2026 06:03
 310f999b-cd15-4bd8-86db-e6f4f88b7cc2,route.clothing,available,32.99,32.99,high,low,5,namesilo,,,25/09/2026 07:52
 58473dac-5068-4275-bdaf-fa6147ef1fb2,relocations.clothing,available,31.98,35.68,medium,low,11,namecheap,,,21/09/2026 08:41
 8ee9bbec-8f51-44ff-b7ab-b55d3ce0c27d,kruger.clothing,available,26.08,26.08,medium,low,6,spaceship,,,29/09/2026 01:31
+7fa87d5c-76b1-4669-95bb-6a062843e3ad,culprit.clothing,available,31.98,35.68,medium,low,7,namecheap,,,01/10/2026 01:38
 1cf74516-3f41-4637-8a53-947024e60f0e,postponed.clothing,available,10.92,26.97,medium,low,9,dynadot,,,29/09/2026 08:56
 3050931b-1c2a-4492-b34e-8645b91098b9,antitrade.clothing,available,32.99,32.99,medium,low,9,namesilo,,,19/09/2026 15:13
-bb25bc61-12ff-4d61-9e98-59ac76b0be11,propellent.clothing,available,31.98,35.68,high,low,10,namecheap,,,09/09/2026 03:28
+bb25bc61-12ff-4d61-9e98-59ac76b0be11,propellent.clothing,available,31.98,35.68,medium,low,10,namecheap,,,09/09/2026 03:28
 285cd73c-d064-49e3-8230-5c83316249a7,oysters.clothing,available,31.98,35.68,medium,low,7,namecheap,,,20/09/2026 03:31
 c56e3c44-c740-4c48-897a-6ea393f551a1,arsenal.clothing,available,32.99,32.99,high,low,7,namesilo,,,20/09/2026 09:36
 fe147fac-1c5d-4ec8-8dfa-2937744001e1,ditch.clothing,available,32.99,32.99,high,low,5,namesilo,,,24/09/2026 23:15
@@ -422,11 +447,14 @@ da88e789-6a62-4ead-a895-9e790b81b148,victoria.clothing,premium,118.8,118.8,high,
 9a4ee921-c8a9-4e46-855b-723d5c96117a,bloodshot.clothing,available,19.99,46.99,medium,low,9,name.com,,,10/08/2026 15:21
 cc44025f-c3d1-42b0-b717-c2dff6ac6680,mythologic.clothing,available,31.98,35.68,medium,low,10,namecheap,,,03/09/2026 12:33
 11396bb2-cef5-46bb-a6ed-42aeec437192,zithromax.clothing,available,31.98,35.68,medium,low,9,namecheap,,,21/09/2026 11:16
+e0cce914-7772-4161-a8a4-2007f8824a41,leed.clothing,available,25.2,25.2,high,low,4,cloudflare,,,30/09/2026 20:18
 b4299357-e77f-4c90-b083-0df5f3a4e107,dagger.clothing,available,31.98,35.68,high,low,6,namecheap,,,24/09/2026 20:52
 554273c4-edca-4639-b5be-f04df18e1f27,wagner.clothing,available,10.92,26.97,high,medium,6,dynadot,,,28/09/2026 20:05
-f688681c-d459-4df0-9850-8fc2f30c14b3,morale.clothing,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 19:07
+19596191-f7b4-4b0c-bc18-065654076bc6,cherbourg.clothing,available,26.08,26.08,medium,low,9,spaceship,,,30/09/2026 09:08
+f688681c-d459-4df0-9850-8fc2f30c14b3,morale.clothing,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 19:07
 eddd80d3-0fcf-4982-b12d-5da91537722c,onward.clothing,available,19.99,46.99,high,low,6,name.com,,,14/09/2026 19:49
 7306f7f8-5026-4e04-89bb-7fe76b550085,critic.clothing,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 12:01
+e16d1bd2-2d0f-4af0-9a8c-cb5e95f8dc1b,woodwork.clothing,available,32.99,32.99,high,low,8,namesilo,,,30/09/2026 16:36
 6411fa45-6dcb-49db-b5d3-bf11ff895b93,activism.clothing,available,32.99,32.99,high,low,8,namesilo,,,17/09/2026 05:15
 0cb550d7-583c-446e-8901-11c498abdaeb,yearn.clothing,available,19.99,46.99,high,low,5,name.com,,,24/08/2026 08:59
 f559a363-93d0-4d13-be63-c4d82a84e160,disperse.clothing,available,32.99,32.99,high,low,8,namesilo,,,29/09/2026 13:55
@@ -434,21 +462,25 @@ f559a363-93d0-4d13-be63-c4d82a84e160,disperse.clothing,available,32.99,32.99,hig
 74550f6f-44af-4111-b59e-b4343b297b3c,healthier.clothing,available,31.98,35.68,high,low,9,namecheap,,,24/09/2026 19:03
 bcffd852-16ec-4442-960c-665fd0d106d4,dolorous.clothing,available,19.99,46.99,medium,low,8,name.com,,,14/08/2026 15:30
 f9e839d3-2c64-451c-b150-5915a3a28acc,taradiddle.clothing,available,32.99,32.99,medium,low,10,namesilo,,,21/09/2026 23:52
+9e799fd1-3b86-4e64-b94b-1a46a5387688,afi.clothing,available,26.08,26.08,high,low,3,spaceship,,,30/09/2026 20:06
 62ec10a8-0814-493f-bb06-7a7766c07be1,aspirer.clothing,available,19.99,46.99,medium,low,7,name.com,,,07/08/2026 05:12
 2f92a13d-81ee-4715-b8b1-36a932210a0c,bessie.clothing,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 03:55
 3667ee7d-39b7-4af1-98af-74d65cd43095,trips.clothing,available,32.99,32.99,medium,low,5,namesilo,,,27/09/2026 22:50
 91608f75-941a-4547-bfe5-48eb1b65fad8,maverick.clothing,available,19.99,46.99,high,low,8,name.com,,,24/08/2026 17:42
 755699ef-6496-4f61-ba1a-05c08c9ff178,outboard.clothing,available,31.98,35.68,high,low,8,namecheap,,,04/09/2026 18:55
-72641603-445d-40a6-8a85-bab508b7dd20,log.clothing,premium,78.54,78.54,high,low,3,namesilo,,,
+72641603-445d-40a6-8a85-bab508b7dd20,log.clothing,premium,78.54,78.54,high,medium,3,namesilo,,,30/09/2026 03:09
 0018fc14-ae7e-484f-89b8-1cc242a65ad5,neurological.clothing,available,10.92,26.97,medium,low,12,dynadot,,,29/09/2026 16:30
 744a4b30-b8ae-49f8-80ed-c5a588b2c249,hawke.clothing,available,10.81,26.26,medium,low,5,porkbun,,,29/09/2026 15:41
 aa884c25-9dfb-4d14-b677-ce923348784f,arginine.clothing,available,32.99,32.99,medium,low,8,namesilo,,,20/09/2026 04:24
 71c23589-fbed-4a46-adb7-c28cb3464189,sharon.clothing,available,32.99,32.99,high,low,6,namesilo,,,27/09/2026 06:30
 53bbbb07-7e3f-49f3-831f-209b750761c9,eyes.clothing,available,25.2,25.2,high,low,4,cloudflare,,,29/09/2026 18:46
+3c79c9ed-928b-4941-90c2-2c546203acbc,commandant.clothing,available,10.81,26.26,high,low,10,porkbun,,,01/10/2026 01:32
 63153738-7182-4f00-8788-008bf46c8ae2,insincere.clothing,available,19.99,46.99,medium,low,9,name.com,,,22/08/2026 07:08
 4b916e63-ba1b-4a67-a53e-2670d35149d4,emblematic.clothing,available,19.99,46.99,high,low,10,name.com,,,16/08/2026 09:29
 c8ea3d27-9f9e-4c9e-bed7-c02a597b3202,geodetic.clothing,available,19.99,46.99,medium,low,8,name.com,,,18/08/2026 22:21
 40168f34-75d3-4504-9d13-bef650764662,fallible.clothing,available,19.99,46.99,medium,low,8,name.com,,,17/08/2026 21:30
+6e611965-18a4-44f7-9584-93e46bbcd0d3,pastures.clothing,available,32.99,32.99,medium,low,8,namesilo,,,30/09/2026 07:16
+303b728c-543a-42d0-9342-5f30bece50d8,facade.clothing,available,32.99,32.99,high,low,6,namesilo,,,30/09/2026 09:35
 ff4ff945-5145-4007-b88d-0e4af81c143a,accretive.clothing,available,19.99,46.99,medium,low,9,name.com,,,
 7511a303-8661-4dd9-b402-2b2e573e5ae0,basia.clothing,available,31.98,35.68,medium,low,5,namecheap,,,22/09/2026 10:34
 c8c28987-2e47-4775-bc73-6b320a3ae117,agamemnon.clothing,available,32.99,32.99,medium,low,9,namesilo,,,17/09/2026 16:06
@@ -456,7 +488,7 @@ c8c28987-2e47-4775-bc73-6b320a3ae117,agamemnon.clothing,available,32.99,32.99,me
 9fabf735-2640-42a9-a83a-996dfe8b2c94,junky.clothing,available,32.99,32.99,medium,low,5,namesilo,,,17/09/2026 06:52
 23399019-bafa-4e26-9248-5f5b982adcec,fuse.clothing,available,31.98,35.68,high,low,4,namecheap,,,28/09/2026 05:34
 e091a843-8035-4554-ab8f-1ff483a5b98e,itinerant.clothing,available,19.99,46.99,high,low,9,name.com,,,22/08/2026 11:41
-849fd35b-50d4-4e99-a123-1a85a22eab0e,poetically.clothing,available,31.98,35.68,high,low,10,namecheap,,,15/09/2026 20:51
+849fd35b-50d4-4e99-a123-1a85a22eab0e,poetically.clothing,available,31.98,35.68,medium,low,10,namecheap,,,15/09/2026 20:51
 8861b149-fadc-4eec-a7d6-35a0e2823019,whipped.clothing,available,26.08,26.08,medium,low,7,spaceship,,,28/09/2026 21:21
 0ac67d64-b645-4467-8af8-1512d287fe08,alienated.clothing,available,19.99,46.99,medium,low,9,name.com,,,
 091d4f9f-5fd2-4c4e-8ed2-d6fb62a042bc,pecuniary.clothing,available,19.99,46.99,medium,low,9,name.com,,,25/08/2026 04:35
@@ -464,7 +496,7 @@ e091a843-8035-4554-ab8f-1ff483a5b98e,itinerant.clothing,available,19.99,46.99,hi
 f60aa176-4160-4334-842d-7feb490a2668,rigil.clothing,available,32.99,32.99,medium,low,5,namesilo,,,18/09/2026 13:35
 69acdab6-8a07-468a-8ab3-7eebca025ab8,overboard.clothing,available,31.98,35.68,high,low,9,namecheap,,,15/09/2026 18:25
 a1641894-5e80-44f1-9eda-1b24762e6461,spider.clothing,available,32.99,32.99,high,low,6,namesilo,,,26/09/2026 00:23
-a1f219bb-997b-4d99-9d4c-608f3b8ed059,limo.clothing,available,19.99,,high,low,4,name.com,,,
+a1f219bb-997b-4d99-9d4c-608f3b8ed059,limo.clothing,available,32.99,32.99,high,low,4,namesilo,,,30/09/2026 03:02
 31153b7d-4652-4c3f-840e-e63ef878d288,warmed.clothing,available,31.98,35.68,high,low,6,namecheap,,,13/09/2026 08:22
 f2043b0c-8ad1-43e5-b59d-170619eaae18,bilgy.clothing,available,19.99,46.99,medium,low,5,name.com,,,09/08/2026 21:16
 f354987f-9c9d-4571-af8e-4ecd6f565d6f,zaman.clothing,available,32.99,32.99,high,low,5,namesilo,,,18/09/2026 03:15
@@ -484,6 +516,7 @@ f8b8ecb3-88b3-453a-91bd-16ebd8a87ad2,tail.clothing,available,31.98,35.68,high,lo
 afb6795d-bf9a-4404-b392-b739972ac550,balloon.clothing,available,32.99,32.99,high,low,7,namesilo,,,21/09/2026 23:08
 a3c59fd0-dc7b-4fb0-b5d5-3c99dd24ee72,dallas.clothing,premium,118.8,118.8,high,low,6,namesilo,,,25/09/2026 04:35
 6d255393-d69c-43a5-b39d-d5c39124f7ae,vocational.clothing,available,31.98,35.68,high,low,10,namecheap,,,13/09/2026 06:29
+fd8bd66d-3884-4361-8a40-8d0010eb2969,saf.clothing,available,10.81,26.26,high,low,3,porkbun,,,30/09/2026 12:43
 ec692714-8d8b-4ab2-a5b9-86fa7d17140c,aeonium.clothing,available,32.99,32.99,medium,low,7,namesilo,,,17/09/2026 12:40
 1dec812d-947a-41a9-ad0d-970ce11c126e,baster.clothing,available,32.99,32.99,medium,low,6,namesilo,,,22/09/2026 12:47
 8c138de7-0c6c-4acb-8743-aac0f2edc885,blouse.clothing,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 06:07
@@ -491,6 +524,7 @@ ec692714-8d8b-4ab2-a5b9-86fa7d17140c,aeonium.clothing,available,32.99,32.99,medi
 6e0bde03-ad4b-48d4-a558-1577f70ed9cf,dividing.clothing,available,26.08,26.08,medium,low,8,spaceship,,,29/09/2026 08:50
 2d101874-72c6-420b-b1b3-9764ecce7080,amoxil.clothing,available,32.99,32.99,medium,low,6,namesilo,,,18/09/2026 22:54
 ae4faa31-5d3f-42bc-a9d5-44ef031af9f3,volary.clothing,available,31.98,35.68,medium,low,6,namecheap,,,21/09/2026 09:24
+09634bd3-d146-49f7-8d23-33c5e9d13b10,lazio.clothing,available,25.2,25.2,medium,low,5,cloudflare,,,30/09/2026 17:51
 5fb56d00-22a2-4df4-9c16-92ae4b479273,negotiated.clothing,available,32.99,32.99,medium,low,10,namesilo,,,29/09/2026 23:38
 09281949-9509-47e7-bf14-109ae01ee62a,playfield.clothing,available,19.99,,high,low,9,name.com,,,
 90cf5013-e0cc-4a81-8e27-a12edb7b3397,pending.clothing,available,32.99,32.99,high,low,7,namesilo,,,27/09/2026 03:20
@@ -498,24 +532,25 @@ ae4faa31-5d3f-42bc-a9d5-44ef031af9f3,volary.clothing,available,31.98,35.68,mediu
 bf247014-de64-4bcb-adff-7baae4f16b5c,acoustic.clothing,available,19.99,46.99,high,low,8,name.com,,,
 d1c5d5da-6bc2-4d73-8f31-7793850952ba,halting.clothing,available,19.99,46.99,medium,low,7,name.com,,,13/08/2026 07:02
 09f71d70-50ed-4689-b786-2a0e5d1d6249,keegan.clothing,available,26.08,26.08,medium,low,6,spaceship,,,30/09/2026 00:49
+e87b61ca-6763-4b57-b0bb-95a3ea5a5838,mandal.clothing,available,25.2,25.2,medium,low,6,cloudflare,,,30/09/2026 20:27
 46662730-55dc-41b2-8dae-226a825fdc47,amino.clothing,available,19.99,46.99,high,low,5,name.com,,,
 4b4818d3-0969-4a14-bcb9-916c802efa23,implausible.clothing,available,19.99,,medium,low,11,name.com,,,
 96a6fef8-8151-47c8-8c66-4ded9d86939c,kashmiri.clothing,available,19.99,46.99,medium,low,8,name.com,,,22/08/2026 15:07
 c5729088-d1fe-40af-bf95-fb95ea801bd5,atresia.clothing,available,31.98,35.68,medium,low,7,namecheap,,,21/09/2026 00:42
 cab55078-0a85-407a-a5b7-062f5877c90a,atrazine.clothing,available,32.99,32.99,medium,low,8,namesilo,,,21/09/2026 00:37
 39b820a2-454d-45a4-8d47-dfac1ab4a967,tahiti.clothing,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 20:28
-27f5cf27-c254-4e9b-a71e-0ea069b899f7,durer.clothing,available,32.99,32.99,high,low,5,namesilo,,,18/09/2026 03:18
+27f5cf27-c254-4e9b-a71e-0ea069b899f7,durer.clothing,available,32.99,32.99,medium,low,5,namesilo,,,18/09/2026 03:18
 cf147f89-12c9-430b-9f99-2b4ecffac416,mercuric.clothing,available,19.99,46.99,medium,low,8,name.com,,,24/08/2026 20:40
 43bbaf6a-b03e-454b-80d1-a4e6b8a809ab,hindrance.clothing,available,19.99,46.99,medium,low,9,name.com,,,14/08/2026 04:50
 05e975ad-6c90-4d8f-9aa1-1cc7599f5a2d,twirl.clothing,available,25.2,25.2,high,low,5,cloudflare,,,28/09/2026 02:49
-bb7df4e9-0d36-4d80-9fe0-816de29d6284,vibrate.clothing,available,19.99,,high,low,7,name.com,,,
+bb7df4e9-0d36-4d80-9fe0-816de29d6284,vibrate.clothing,available,25.2,25.2,high,low,7,cloudflare,,,30/09/2026 20:16
 ecff328e-a51f-4e5c-a032-8c8e65ac6cac,guides.clothing,available,32.99,32.99,high,low,6,namesilo,,,29/09/2026 16:42
 29af1510-a962-4e34-ae6c-34ca56960e7a,reprobate.clothing,available,19.99,46.99,medium,low,9,name.com,,,14/08/2026 02:38
 123c37c9-f60b-4b02-ac86-fcd61d1b33f8,eyesight.clothing,available,10.81,26.26,high,low,9,porkbun,,,29/09/2026 18:51
 9afc934e-be9a-427b-b304-7b13db97a80d,medial.clothing,available,19.99,46.99,high,low,6,name.com,,,24/08/2026 18:51
 45af7e98-4a46-477a-91d7-3d8051077097,butts.clothing,available,25.2,25.2,high,low,5,cloudflare,,,29/09/2026 11:36
 9e429558-d7db-4c48-a4cc-f3f6f01f27d5,continuant.clothing,available,19.99,46.99,medium,low,10,name.com,,,12/08/2026 23:17
-7a2bcaf8-ac1a-42d0-85ff-2db53f448612,lau.clothing,available,32.99,32.99,high,low,3,namesilo,,,28/09/2026 07:25
+7a2bcaf8-ac1a-42d0-85ff-2db53f448612,lau.clothing,available,32.99,32.99,medium,low,3,namesilo,,,28/09/2026 07:25
 cbd4b2c1-817f-4a44-8f06-d8eaade57d3c,vowels.clothing,available,31.98,35.68,medium,low,6,namecheap,,,20/09/2026 00:07
 7f978672-b2f1-44c6-b27e-b411a4fb566f,sahara.clothing,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 20:15
 4abd8bf8-7703-4100-9c63-1794fb8eed85,moldy.clothing,available,31.98,35.68,medium,low,5,namecheap,,,25/09/2026 21:25
@@ -523,6 +558,7 @@ f75b56e7-a355-4d37-a2a7-eebfa16518e9,allspice.clothing,available,32.99,32.99,hig
 f1ec0265-263a-4db1-99dc-530f9362d132,specific.clothing,available,32.99,32.99,high,low,8,namesilo,,,27/09/2026 02:45
 568f5f45-39a6-414b-bc55-32fca97958f5,devilish.clothing,available,19.99,46.99,medium,low,8,name.com,,,14/08/2026 05:06
 3733cb9f-e20b-49fa-89ca-344d7d11a4dc,overactive.clothing,available,19.99,46.99,medium,low,10,name.com,,,21/08/2026 16:42
+6f96c685-284c-42d8-a847-024e2edeaa08,osaka.clothing,available,32.99,32.99,high,low,5,namesilo,,,30/09/2026 10:41
 d43f212d-4768-43b1-8c2b-03f00629cb69,fogged.clothing,available,19.99,46.99,medium,low,6,name.com,,,18/08/2026 09:51
 bbfde33c-b3b9-4c1a-89cd-a53853a04d7a,case.clothing,available,32.99,32.99,high,low,4,namesilo,,,29/09/2026 07:33
 e9bb7b40-d1a5-4b3d-a296-96a306025e30,ascendable.clothing,available,19.99,46.99,medium,low,10,name.com,,,07/08/2026 00:35
@@ -530,7 +566,7 @@ e9bb7b40-d1a5-4b3d-a296-96a306025e30,ascendable.clothing,available,19.99,46.99,m
 f78b4757-bb6a-4876-8959-f407bd1ef255,unaged.clothing,available,31.98,35.68,medium,low,6,namecheap,,,12/09/2026 00:11
 3c791d52-f983-4c6b-bf7c-2ca5d07e61d8,laureate.clothing,available,19.99,46.99,high,low,8,name.com,,,22/08/2026 20:57
 633fb389-4952-4160-b01e-89bf42e8a7ae,discard.clothing,available,32.99,32.99,high,low,7,namesilo,,,29/09/2026 15:21
-bdea599a-b8f0-47fe-8c70-651942c9e579,algebraic.clothing,available,19.99,46.99,high,low,9,name.com,,,
+bdea599a-b8f0-47fe-8c70-651942c9e579,algebraic.clothing,available,19.99,46.99,medium,low,9,name.com,,,
 d585ca5e-38c8-4496-b67f-726ca3a3925a,quietly.clothing,available,31.98,35.68,high,low,7,namecheap,,,09/09/2026 08:49
 604ad85b-3582-46fc-b6d1-eac0cab2d3e2,been.clothing,available,19.99,,medium,low,4,name.com,,,
 0bc7d438-c7ec-436a-9fd9-2e08be640066,reptile.clothing,available,31.98,35.68,high,low,7,namecheap,,,09/09/2026 14:41
@@ -538,13 +574,14 @@ d585ca5e-38c8-4496-b67f-726ca3a3925a,quietly.clothing,available,31.98,35.68,high
 1616d951-7fd7-4658-a17e-23735712605c,producer.clothing,available,32.99,32.99,high,low,8,namesilo,,,25/09/2026 10:38
 059fdac2-b186-4b44-9fef-0653718d37c2,malthusian.clothing,available,19.99,46.99,medium,low,10,name.com,,,24/08/2026 14:17
 677d1c0c-8de7-4299-b635-ff9212926d2a,rudder.clothing,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 20:14
+0d57c8af-80f3-4750-8cad-380410445acd,abbeville.clothing,available,32.99,32.99,medium,low,9,namesilo,,,30/09/2026 20:53
 200006aa-14dd-41a8-9aa7-f7f2be0a66d0,karen.clothing,premium,78.54,78.54,high,low,5,namesilo,,,25/09/2026 08:08
 7f214f8e-a979-43c6-876e-d4b24c848274,escorted.clothing,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 17:28
 d9df1fed-d7ba-4426-a690-19506043c041,poses.clothing,available,31.98,35.68,medium,low,5,namecheap,,,29/09/2026 17:20
 44adcc5a-4f36-49b9-b322-052ee22cc551,shallot.clothing,available,31.98,35.68,medium,low,7,namecheap,,,18/09/2026 11:16
-6d964a01-46c1-4d5f-95e9-c6b8a738e942,wha.clothing,available,32.99,32.99,high,low,3,namesilo,,,29/09/2026 14:45
+6d964a01-46c1-4d5f-95e9-c6b8a738e942,wha.clothing,available,32.99,32.99,medium,low,3,namesilo,,,29/09/2026 14:45
 bbb248ae-6f43-43be-8fcd-e328459800fe,empathic.clothing,available,19.99,46.99,high,low,8,name.com,,,16/08/2026 16:41
-4f057ea6-2e36-4075-b32d-84ec25709b29,pennyroyal.clothing,available,31.98,35.68,high,low,10,namecheap,,,18/09/2026 20:31
+4f057ea6-2e36-4075-b32d-84ec25709b29,pennyroyal.clothing,available,31.98,35.68,medium,low,10,namecheap,,,18/09/2026 20:31
 04e24100-f9b5-4870-b885-a4243ea63847,pompous.clothing,available,19.99,46.99,medium,low,7,name.com,,,12/08/2026 00:37
 866a948a-a40c-4e3e-a12d-c6ce3ceb20c8,mounting.clothing,available,26.08,26.08,medium,low,8,spaceship,,,29/09/2026 00:26
 6773c33d-355c-4b40-adaa-9f54e6291f95,pigfish.clothing,available,32.99,32.99,medium,low,7,namesilo,,,17/09/2026 00:46
@@ -552,13 +589,15 @@ bb77ac50-b298-4082-94b0-b49ce04546df,gloved.clothing,available,19.99,46.99,high,
 3f1dd069-0815-40e5-9f2f-6860b86bab84,bergamot.clothing,available,31.98,35.68,high,low,8,namecheap,,,23/09/2026 09:18
 1d06477c-4555-4293-81fa-7700382aae32,lds.clothing,available,10.92,26.97,high,low,3,dynadot,,,28/09/2026 08:25
 274b7684-21ac-4e21-8d1a-f29413fb5024,poisoned.clothing,available,10.92,26.97,medium,low,8,dynadot,,,27/09/2026 17:38
-31aebbf7-18b3-47fb-8349-45925bcbd427,pretzel.clothing,available,19.99,,high,low,7,name.com,,,
+31aebbf7-18b3-47fb-8349-45925bcbd427,pretzel.clothing,available,10.81,26.26,high,low,7,porkbun,,,30/09/2026 07:15
 ee392909-7ddf-4969-9da7-1ac406a968e2,stoppage.clothing,available,19.99,46.99,medium,low,8,name.com,,,20/08/2026 22:57
 78b956c2-ce2f-403e-ad5c-89952b5f6a7f,libidinous.clothing,available,19.99,46.99,medium,low,10,name.com,,,22/08/2026 20:09
 9d9729a5-0791-4940-912c-8ba10ef54a45,abvolt.clothing,available,31.98,35.68,medium,low,6,namecheap,,,16/09/2026 19:39
 930111ca-903b-43a4-9cd2-a1f37a628fc1,bowl.clothing,available,32.99,32.99,high,low,4,namesilo,,,24/09/2026 07:38
 a4d62a07-ffc7-4cfb-8122-5913eb1e153a,roue.clothing,available,31.98,35.68,medium,low,4,namecheap,,,09/09/2026 02:53
+a49d54ee-e534-4914-971c-8768829a03c4,chopping.clothing,available,31.98,35.68,high,low,8,namecheap,,,30/09/2026 12:16
 2de3dbb8-0741-4ca7-8558-95a3d55fb39f,muhammad.clothing,available,10.92,26.97,medium,low,8,dynadot,,,28/09/2026 13:59
+67d5b751-1137-4301-b924-8a02afdc4b7c,patents.clothing,available,32.99,32.99,medium,low,7,namesilo,,,01/10/2026 00:20
 9138a77b-24ce-4d72-92ef-b156af57f989,retarded.clothing,available,26.08,26.08,medium,low,8,spaceship,,,27/09/2026 13:11
 6539f8df-8ac5-49eb-b6a4-ec61ced5c9a2,dogsledding.clothing,available,32.99,32.99,medium,low,11,namesilo,,,20/09/2026 01:02
 71e24348-1a3b-4b4e-a7a8-371f44eb5fd9,snipefish.clothing,available,32.99,32.99,medium,low,9,namesilo,,,23/09/2026 06:28
@@ -571,12 +610,14 @@ b33fb8c6-9835-47b0-9d08-9ef846334c93,interview.clothing,available,32.99,32.99,hi
 d3b99758-18af-4d5f-8a44-33297deca53d,envision.clothing,available,19.99,46.99,high,low,8,name.com,,,17/08/2026 21:59
 d4f31abb-27fb-4626-bc76-eea213cda1c5,begetter.clothing,available,32.99,32.99,medium,low,8,namesilo,,,23/09/2026 02:08
 b5b54a9f-f94f-41cc-b029-accdfc6f4821,loses.clothing,available,31.98,35.68,medium,low,5,namecheap,,,27/09/2026 11:07
-9fb62a25-8cee-4c21-9175-e1321b36e14f,swash.clothing,available,19.99,46.99,high,low,5,name.com,,,11/08/2026 01:05
+838a5e4d-499c-4139-9165-ede321f106ab,detonation.clothing,available,26.08,26.08,medium,low,10,spaceship,,,30/09/2026 08:10
+94fb1270-0544-480e-8656-442ebadcc362,tripod.clothing,available,31.98,35.68,high,low,6,namecheap,,,30/09/2026 19:02
+9fb62a25-8cee-4c21-9175-e1321b36e14f,swash.clothing,available,19.99,46.99,medium,low,5,name.com,,,11/08/2026 01:05
 1a30c4c2-5c0d-47ff-b86e-8ffe1a254563,subsonic.clothing,available,31.98,35.68,medium,low,8,namecheap,,,11/09/2026 00:50
 693104b4-41ea-4f91-ae99-5d29dcfa2ddc,donut.clothing,available,25.2,25.2,high,low,5,cloudflare,,,29/09/2026 16:33
 6730988c-bafd-4345-843f-c635fa7b4b69,glittery.clothing,available,19.99,46.99,high,low,8,name.com,,,
 79313703-d143-43ae-960c-9911bf2711eb,anarchic.clothing,available,19.99,46.99,medium,low,8,name.com,,,
-e8625326-5927-4a69-9634-7e659ef465b8,neighbour.clothing,available,19.99,,high,low,9,name.com,,,
+e8625326-5927-4a69-9634-7e659ef465b8,neighbour.clothing,available,25.2,25.2,high,low,9,cloudflare,,,30/09/2026 05:34
 fcdec6af-a82d-47ba-b139-54125703ed10,door.clothing,available,32.99,32.99,high,low,4,namesilo,,,19/09/2026 10:21
 b63f68c9-08db-42b8-8d35-62617a221934,gallican.clothing,available,19.99,46.99,medium,low,8,name.com,,,18/08/2026 19:40
 aeab0189-003e-4bf7-8400-1bc19733b461,masterly.clothing,available,31.98,35.68,high,low,8,namecheap,,,23/09/2026 21:40
@@ -588,16 +629,19 @@ f8211f8a-a72e-426c-8b53-0bedc3012589,pommel.clothing,available,31.98,35.68,mediu
 540946e6-d07f-475f-8c0a-f76dafd575a8,jagged.clothing,available,19.99,46.99,medium,low,6,name.com,,,17/08/2026 12:32
 e330eabf-b588-4233-8120-f0606a962577,scapular.clothing,available,31.98,35.68,medium,low,8,namecheap,,,09/09/2026 22:51
 6f1aaa25-47af-4cae-b5b3-9985991bca62,reticulate.clothing,available,31.98,35.68,high,low,10,namecheap,,,09/09/2026 15:32
+35e9265d-1f91-4952-b27e-e69f5a73af26,naia.clothing,available,26.08,26.08,medium,low,4,spaceship,,,30/09/2026 12:50
 795609de-6976-4153-aee3-f066ba5e16b7,weighs.clothing,available,10.81,26.26,low,low,6,porkbun,,,28/09/2026 18:15
 edc13180-8790-4bd8-aabd-cc961935cd90,garfield.clothing,available,10.81,26.26,medium,low,8,porkbun,,,28/09/2026 14:15
-36bc96a0-0512-467c-8427-49e1f3488186,mods.clothing,available,19.99,,high,low,4,name.com,,,
+36bc96a0-0512-467c-8427-49e1f3488186,mods.clothing,available,32.99,32.99,high,low,4,namesilo,,,30/09/2026 04:53
 55797d2c-b361-438a-8f19-13f585afbc49,coruscant.clothing,available,19.99,46.99,medium,low,9,name.com,,,
 c0a137bc-d758-4eff-ae5f-d59bd26c8b93,purely.clothing,available,31.98,35.68,high,low,6,namecheap,,,15/09/2026 22:05
 09a3fa8b-5ae8-4859-a52c-3c644ca173dc,truman.clothing,available,32.99,32.99,medium,low,6,namesilo,,,28/09/2026 10:00
 a2b372e3-671a-4fd7-b7ed-ca28ea4c4a2b,fumed.clothing,available,19.99,46.99,medium,low,5,name.com,,,18/08/2026 18:20
 58cf7dff-3f1d-4d51-bd97-2b17200c2eef,dissolve.clothing,available,31.98,35.68,high,low,8,namecheap,,,29/09/2026 16:16
 09f37df0-a58c-48d7-9ce8-ddd68a2c745b,loaf.clothing,available,31.98,35.68,high,low,4,namecheap,,,11/09/2026 08:31
+8bfddc1c-f079-450a-a27a-33fb11b7e9d5,solidarity.clothing,available,10.81,26.26,high,low,10,porkbun,,,30/09/2026 02:56
 3e9477b4-5da5-45c6-b4e3-b6a1625d1c0d,meadow.clothing,available,32.99,32.99,high,low,6,namesilo,,,29/09/2026 01:16
+a59b3066-597c-4e25-9639-9fdc2cdc0162,grasshopper.clothing,available,32.99,32.99,high,low,11,namesilo,,,30/09/2026 11:34
 1216a7ce-a6b9-4a83-bdae-5cd4a76248a5,batavia.clothing,available,31.98,35.68,high,low,7,namecheap,,,27/09/2026 18:11
 a41fd5b2-9c91-4f3e-962b-08a5ee6e3db1,equanimity.clothing,available,19.99,46.99,high,low,10,name.com,,,11/08/2026 14:58
 b91bfba6-f390-4160-9d02-3fc92262aa29,friend.clothing,available,10.81,26.26,high,low,6,porkbun,,,28/09/2026 18:47
@@ -607,7 +651,7 @@ d8671ee4-5a89-45c4-acaa-707331b997c6,geology.clothing,available,32.99,32.99,high
 3a01d0e6-7cba-471d-9c9b-76e72799dab3,uppermost.clothing,available,31.98,35.68,medium,low,9,namecheap,,,11/09/2026 17:48
 c146bba1-5cea-463a-acc0-e5f47c5fdcb2,owner.clothing,available,32.99,32.99,high,low,5,namesilo,,,25/09/2026 09:45
 58f5c254-e4c4-4091-9a79-ecfedb188bff,reliant.clothing,available,19.99,46.99,high,low,7,name.com,,,09/09/2026 13:35
-54e88215-1e53-4b61-83c4-3df6a5765863,annie.clothing,premium,85.8,85.8,high,low,5,namecheap,,,25/09/2026 18:17
+54e88215-1e53-4b61-83c4-3df6a5765863,annie.clothing,premium,85.8,85.8,medium,low,5,namecheap,,,25/09/2026 18:17
 26bfd8f3-3ff7-4dd7-9756-6d99882e2a41,embodiment.clothing,available,32.99,32.99,high,low,10,namesilo,,,21/09/2026 08:48
 86164a5f-bb10-4f56-81f4-7850534a0df4,joliet.clothing,available,32.99,32.99,medium,low,6,namesilo,,,29/09/2026 01:26
 cff5eb45-5ce3-4ae7-956e-ba5f129a9727,wonders.clothing,available,32.99,32.99,high,low,7,namesilo,,,18/09/2026 02:01
@@ -627,7 +671,7 @@ e2490726-38d5-43af-bf4d-c5514ccaaf9a,anasarca.clothing,available,32.99,32.99,med
 64f742c7-0430-453d-bb92-2030f4935439,packets.clothing,available,32.99,32.99,medium,low,7,namesilo,,,20/09/2026 14:11
 5a446061-4a55-4521-8fee-f8ecf1bf8b31,apparatus.clothing,available,31.98,35.68,high,low,9,namecheap,,,19/09/2026 19:49
 021b8e13-d6e3-41e3-bb35-0a4cc75b6fd8,eyrie.clothing,available,19.99,46.99,high,low,5,name.com,,,
-6a81b7a8-7fd1-47d2-8c1c-69a0aa1eb067,proclaim.clothing,available,19.99,,high,low,8,name.com,,,
+6a81b7a8-7fd1-47d2-8c1c-69a0aa1eb067,proclaim.clothing,available,26.08,26.08,high,low,8,spaceship,,,30/09/2026 19:20
 01f4da92-b2cf-4cd0-86f6-bb11da0d3345,washed.clothing,premium,78.54,78.54,high,low,6,namesilo,,,13/09/2026 08:31
 bf8aec93-80e5-4752-a62a-1fa022dffe83,transfers.clothing,available,32.99,32.99,medium,low,9,namesilo,,,30/09/2026 00:41
 7d761896-3ce4-4c9b-a1a3-d8c0d88d91ac,selflessly.clothing,available,31.98,35.68,medium,low,10,namecheap,,,13/09/2026 19:23
@@ -636,7 +680,7 @@ bf8aec93-80e5-4752-a62a-1fa022dffe83,transfers.clothing,available,32.99,32.99,me
 98fe190e-f7b3-4ea3-8b3f-bba55a0c1445,oxalis.clothing,available,31.98,35.68,medium,low,6,namecheap,,,10/09/2026 14:35
 40bf55aa-2087-423e-ae9b-d644c46c034e,downtime.clothing,available,32.99,32.99,high,low,8,namesilo,,,24/09/2026 23:41
 0bbdfd3c-e22b-4641-8f1b-14f336b66e3c,antiquated.clothing,available,19.99,46.99,high,low,10,name.com,,,
-63f49419-2e80-4cc9-8943-1ead0471ff86,anastasia.clothing,available,26.08,26.08,high,low,9,spaceship,,,29/09/2026 03:46
+63f49419-2e80-4cc9-8943-1ead0471ff86,anastasia.clothing,available,26.08,26.08,medium,low,9,spaceship,,,29/09/2026 03:46
 473175ab-55da-4331-9ca6-cd88d3316a6d,factors.clothing,available,32.99,32.99,medium,low,7,namesilo,,,29/09/2026 10:49
 477ae693-8cfa-4cd7-ae23-7aca6cc5df5c,brachial.clothing,available,19.99,46.99,medium,low,8,name.com,,,11/08/2026 00:19
 69a9ed96-2edb-4392-a975-be922698694e,weeds.clothing,available,32.99,32.99,high,low,5,namesilo,,,29/09/2026 08:19
@@ -652,23 +696,23 @@ c38c8fc9-4e98-47e9-9ba6-92de3dd6e2d9,eggs.clothing,available,26.08,26.08,high,lo
 ab5f9354-65b3-4d2d-87d6-1d62ba7bc1da,carthage.clothing,available,31.98,35.68,medium,low,8,namecheap,,,25/09/2026 04:02
 a612302e-6a8f-4577-80d5-eeb711ce079f,sudanese.clothing,available,31.98,35.68,high,low,8,namecheap,,,11/09/2026 01:05
 cfac8c9a-db33-4446-93f2-2fe703414306,chemist.clothing,available,32.99,32.99,high,low,7,namesilo,,,19/09/2026 19:39
-a9aa050c-170b-4f26-9bdf-c0bff355ca5d,balboa.clothing,available,31.98,35.68,high,low,6,namecheap,,,21/09/2026 21:24
+a9aa050c-170b-4f26-9bdf-c0bff355ca5d,balboa.clothing,available,31.98,35.68,medium,low,6,namecheap,,,21/09/2026 21:24
 bd7b83c7-62d5-4df1-8609-ca9cb9fcc028,fussy.clothing,available,19.99,46.99,medium,low,5,name.com,,,08/08/2026 07:47
 bd35dee7-9bc8-4a2d-828d-50bf39f01f8c,lucidly.clothing,available,31.98,35.68,medium,low,7,namecheap,,,15/09/2026 12:12
 334e012c-0950-4221-9c56-bc1d05b595ca,gaga.clothing,available,19.99,46.99,high,low,4,name.com,,,14/08/2026 14:34
 c764a512-9f9a-454b-a25d-7cd162161a77,laboured.clothing,available,19.99,46.99,medium,low,8,name.com,,,22/08/2026 17:40
-438b3afe-0f76-4034-a5c2-51f3b7055685,concoct.clothing,available,19.99,,high,low,7,name.com,,,
-fb47eea1-43c7-428b-95dd-f655b502b53e,rambling.clothing,available,19.99,46.99,high,low,8,name.com,,,17/08/2026 16:41
-f34f48f8-3c0a-4dbf-a394-b2031ad145a8,invasive.clothing,available,19.99,46.99,high,low,8,name.com,,,16/08/2026 23:54
+438b3afe-0f76-4034-a5c2-51f3b7055685,concoct.clothing,available,26.08,26.08,high,low,7,spaceship,,,30/09/2026 17:42
+fb47eea1-43c7-428b-95dd-f655b502b53e,rambling.clothing,available,19.99,46.99,medium,low,8,name.com,,,17/08/2026 16:41
+f34f48f8-3c0a-4dbf-a394-b2031ad145a8,invasive.clothing,available,19.99,46.99,medium,low,8,name.com,,,16/08/2026 23:54
 d54b3dff-f7fb-4cb9-860b-013d030e7782,vested.clothing,available,31.98,35.68,high,low,6,namecheap,,,13/09/2026 04:49
-051e9779-7ebb-4e6b-92d3-974caf8edce0,marburg.clothing,available,32.99,32.99,high,low,7,namesilo,,,29/09/2026 10:08
+051e9779-7ebb-4e6b-92d3-974caf8edce0,marburg.clothing,available,32.99,32.99,medium,low,7,namesilo,,,29/09/2026 10:08
 d8481e86-344e-4772-a141-f9eb3a89e08d,ascesis.clothing,available,32.99,32.99,medium,low,7,namesilo,,,20/09/2026 13:10
-b2eaf2dc-6637-4d28-b78d-e0813a79b2b7,beverage.clothing,available,25.2,25.2,high,low,8,cloudflare,,,28/09/2026 05:24
-2147f2ae-00a9-4962-a98f-6f29f5b273a0,nighttime.clothing,available,19.99,,high,low,9,name.com,,,
+b2eaf2dc-6637-4d28-b78d-e0813a79b2b7,beverage.clothing,available,26.08,26.08,high,low,8,spaceship,,,01/10/2026 03:28
+2147f2ae-00a9-4962-a98f-6f29f5b273a0,nighttime.clothing,available,32.99,32.99,high,low,9,namesilo,,,30/09/2026 05:43
 f091047f-87f7-4b0d-9e5f-a0e3d2a1e500,ivory.clothing,available,31.98,35.68,high,low,5,namecheap,,,04/09/2026 01:20
 888674ff-3df5-4a85-9211-c7948c542e77,cord.clothing,available,26.08,26.08,high,low,4,spaceship,,,29/09/2026 11:36
 244120d8-e227-4184-84c8-2bdf04aeef3e,limit.clothing,available,26.08,26.08,high,low,5,spaceship,,,29/09/2026 13:54
-5170d555-615b-4267-b620-6d16bbb2cee9,where.clothing,available,19.99,,high,low,5,name.com,,,
+5170d555-615b-4267-b620-6d16bbb2cee9,where.clothing,available,32.99,32.99,high,low,5,namesilo,,,30/09/2026 22:56
 31237553-da7d-42e9-9e70-31607a283e83,resentful.clothing,available,31.98,35.68,medium,low,9,namecheap,,,09/09/2026 14:48
 2253c3d3-e8f1-45f6-9ca3-8b97c63db118,chthonian.clothing,available,19.99,46.99,medium,low,9,name.com,,,12/08/2026 07:26
 24301e21-a027-4b22-a86b-e961bf554779,want.clothing,available,26.08,26.08,high,low,4,spaceship,,,29/09/2026 13:33
@@ -678,7 +722,8 @@ f091047f-87f7-4b0d-9e5f-a0e3d2a1e500,ivory.clothing,available,31.98,35.68,high,l
 b97241bb-7581-47bf-b0c0-7cc90ac25f2e,introductions.clothing,available,32.99,32.99,medium,low,13,namesilo,,,20/09/2026 22:09
 6242a8fd-296f-4864-9918-18e306c56f21,patently.clothing,available,31.98,35.68,medium,low,8,namecheap,,,08/09/2026 20:24
 0f56ae6e-c0dc-4742-ae0f-2bfa21b24566,damascene.clothing,available,19.99,46.99,medium,low,9,name.com,,,13/08/2026 16:07
-b8ae7f47-3d3c-4956-8e76-56eb0439f613,passbook.clothing,available,32.99,32.99,high,low,8,namesilo,,,22/09/2026 02:44
+b8ae7f47-3d3c-4956-8e76-56eb0439f613,passbook.clothing,available,32.99,32.99,medium,low,8,namesilo,,,22/09/2026 02:44
+9b0190fe-df87-4286-b2fb-78daabb270e2,alarms.clothing,available,32.99,32.99,medium,low,6,namesilo,,,30/09/2026 07:16
 eee67be0-7cd3-49d0-98cb-08282ae7aef1,heywood.clothing,available,32.99,32.99,medium,low,7,namesilo,,,29/09/2026 04:25
 b935c371-d982-4284-bb6a-2b9305921050,binocular.clothing,available,19.99,46.99,high,low,9,name.com,,,10/08/2026 00:15
 0b007a79-41fc-40b8-94fd-dbb0e8fa6847,clammy.clothing,available,19.99,46.99,medium,low,6,name.com,,,12/08/2026 09:23
@@ -693,16 +738,18 @@ ce2ef8d3-4134-460c-96be-3811786b57a8,scold.clothing,available,32.99,32.99,high,l
 2fefe140-0a25-4503-acf5-84c7f7db5ef6,channel.clothing,available,32.99,32.99,high,low,7,namesilo,,,29/09/2026 08:01
 e3488e3a-176f-409c-85fd-4e5f40fdb836,cervine.clothing,available,19.99,46.99,medium,low,7,name.com,,,12/08/2026 01:00
 469d72a0-920e-4486-8fb9-73ad7022836f,troublous.clothing,available,31.98,35.68,low,low,9,namecheap,,,11/09/2026 20:27
-badf720c-52ce-4fda-8219-acd446f36961,accommodate.clothing,available,19.99,,high,low,11,name.com,,,
+badf720c-52ce-4fda-8219-acd446f36961,accommodate.clothing,available,31.98,35.68,high,low,11,namecheap,,,30/09/2026 23:34
 1787d745-df73-4505-a678-71546b9b7764,acquirer.clothing,available,32.99,32.99,medium,low,8,namesilo,,,17/09/2026 02:40
 f0725912-56a2-4750-b24f-fa6b043fb6f7,hahaha.clothing,available,19.99,,high,low,6,name.com,,,
 b38d7d61-a90b-431c-b668-2d65c93793c8,elapsed.clothing,available,19.99,46.99,medium,low,7,name.com,,,16/08/2026 00:41
 57d685a8-39e6-432e-8e02-71291da7acd7,kent.clothing,premium,118.8,118.8,high,low,4,namesilo,,,27/09/2026 14:35
+b8e46526-638e-4766-8565-db2aaf635a5a,wilton.clothing,available,26.08,26.08,high,low,6,spaceship,,,30/09/2026 19:06
 2db26872-95ea-4976-948e-dce9a028bd66,execute.clothing,available,10.81,26.26,high,low,7,porkbun,,,27/09/2026 16:26
+1cd62f2a-a938-4946-9d49-4c91749414e5,risking.clothing,available,26.08,26.08,medium,low,7,spaceship,,,30/09/2026 04:11
 bb4c97c6-0e06-4761-8dbb-a7201e6a0225,parishes.clothing,available,32.99,32.99,medium,low,8,namesilo,,,18/09/2026 08:08
 518d6a8a-8b81-4d07-b862-03ce5cd60b73,trey.clothing,available,19.99,46.99,high,low,4,name.com,,,
 ab96332d-e71e-456d-9667-0a3510ce5c8c,albula.clothing,available,32.99,32.99,medium,low,6,namesilo,,,18/09/2026 03:24
-44422e95-a760-4bef-be1d-00b5a1dc0b85,ivanov.clothing,available,32.99,32.99,high,low,6,namesilo,,,29/09/2026 01:22
+44422e95-a760-4bef-be1d-00b5a1dc0b85,ivanov.clothing,available,32.99,32.99,medium,low,6,namesilo,,,29/09/2026 01:22
 95837290-10cd-4955-97c2-8566e775bcbc,confusing.clothing,available,31.98,35.68,high,low,9,namecheap,,,23/09/2026 20:14
 be0fc43f-9bb5-45c5-821b-099b23e01683,nubby.clothing,available,19.99,46.99,medium,low,5,name.com,,,21/08/2026 11:15
 c382fea1-5b94-4e7b-916b-9592362c29c3,smashing.clothing,available,19.99,46.99,high,low,8,name.com,,,08/08/2026 12:53
@@ -710,11 +757,11 @@ a36345da-0593-4da4-889b-9f59b9263c1e,steele.clothing,available,25.2,25.2,high,lo
 0b94164f-33e7-4edd-adaa-1eddc5235aaf,hospitable.clothing,available,19.99,46.99,high,low,10,name.com,,,21/08/2026 14:16
 c290d31e-0bc5-4ac6-8ee4-082fced5ec3d,greek.clothing,premium,78.54,78.54,high,low,5,namesilo,,,08/09/2026 07:29
 c1eb45b7-9298-4caf-8e64-8914b1ba9101,delight.clothing,available,31.98,35.68,high,low,7,namecheap,,,28/09/2026 16:32
-1fbafbf3-5f38-4d75-b9c3-65240af621a9,remarkably.clothing,available,31.98,35.68,high,low,10,namecheap,,,15/09/2026 23:06
+1fbafbf3-5f38-4d75-b9c3-65240af621a9,remarkably.clothing,available,31.98,35.68,medium,low,10,namecheap,,,15/09/2026 23:06
 1e865f9c-807e-443e-99c3-736100cde036,listening.clothing,available,32.99,32.99,high,low,9,namesilo,,,25/09/2026 09:00
 305134b4-e098-4458-995f-eeeae0f44fea,bryson.clothing,available,32.99,32.99,medium,low,6,namesilo,,,29/09/2026 15:28
 ac400a99-3cda-4847-8473-b8a3d7a72895,unmerciful.clothing,available,19.99,46.99,medium,low,10,name.com,,,24/08/2026 20:38
-f4e8504f-f790-49e4-82a5-e32e9f516894,reporting.clothing,available,19.99,,high,low,9,name.com,,,
+f4e8504f-f790-49e4-82a5-e32e9f516894,reporting.clothing,available,26.08,26.08,high,low,9,spaceship,,,30/09/2026 09:52
 f231ae9e-d1f0-4024-b028-1cb728d72843,argosy.clothing,available,31.98,35.68,medium,low,6,namecheap,,,20/09/2026 04:43
 efe8e3fb-5e04-4400-9de6-318c6754c7f9,ecru.clothing,available,19.99,46.99,medium,low,4,name.com,,,09/08/2026 12:26
 999ff0c6-7ddc-4c73-a9dd-6d7ca90b0de0,capri.clothing,available,26.08,26.08,high,low,5,spaceship,,,30/09/2026 00:57
@@ -727,7 +774,8 @@ ccb302dd-14aa-4276-9447-b0336802dc35,medically.clothing,available,31.98,35.68,me
 41d8a245-f022-4526-966c-dfb03507fb50,wittingly.clothing,available,31.98,35.68,medium,low,9,namecheap,,,15/09/2026 10:32
 2b544103-dec5-4977-8989-2b6bc0f09749,mil.clothing,premium,500,500,high,low,3,name.com,,,11/08/2026 22:57
 3a2940df-7666-4f04-96f3-d94b1e7f9368,threesome.clothing,available,19.99,46.99,high,low,9,name.com,,,
-4123d585-ac61-4806-9143-ba0a4acbee46,qing.clothing,available,10.81,26.26,high,low,4,porkbun,,,27/09/2026 12:26
+4123d585-ac61-4806-9143-ba0a4acbee46,qing.clothing,available,10.81,26.26,medium,low,4,porkbun,,,27/09/2026 12:26
+1c4e15c2-1c6e-4c98-a6d1-1702610a912c,customization.clothing,available,26.08,26.08,high,low,13,spaceship,,,30/09/2026 22:42
 d709e07d-51d5-479f-bacd-43a581ceb81b,feed.clothing,available,31.98,35.68,high,low,4,namecheap,,,25/09/2026 05:56
 c5678c88-89f8-4bcc-8594-79431db19800,spiraea.clothing,available,32.99,32.99,medium,low,7,namesilo,,,20/09/2026 17:28
 e426a590-4d26-4597-8576-c3158637d6d9,outside.clothing,available,32.99,32.99,high,low,7,namesilo,,,21/09/2026 23:49
@@ -739,7 +787,7 @@ bc630f7e-bd04-4c03-9f99-b7a1afc3cebd,ruffian.clothing,available,19.99,46.99,medi
 25545299-0e37-4fd8-9eb5-694be139bdb9,carnation.clothing,available,19.99,46.99,high,low,9,name.com,,,11/08/2026 19:26
 c74c7557-0f36-46fc-9b18-8939d5a75bb0,gloria.clothing,available,32.99,32.99,high,low,6,namesilo,,,27/09/2026 02:39
 496f034a-bbaa-4668-ace4-d8110390b6e0,mckinley.clothing,available,32.99,32.99,high,low,8,namesilo,,,25/09/2026 04:51
-894df83d-f2f1-4303-9f2e-f7f22b243ab5,bilge.clothing,available,32.99,32.99,high,low,5,namesilo,,,23/09/2026 15:50
+894df83d-f2f1-4303-9f2e-f7f22b243ab5,bilge.clothing,available,32.99,32.99,medium,low,5,namesilo,,,23/09/2026 15:50
 178525cb-172d-4ab6-9f21-3240714081b3,paunchy.clothing,available,19.99,46.99,medium,low,7,name.com,,,
 72e59912-4da2-4d24-8148-91e266db25bd,twice.clothing,available,32.99,32.99,medium,low,5,namesilo,,,28/09/2026 14:37
 67d1c585-3ebf-43f7-9558-3a0cfce630ca,cagy.clothing,available,19.99,46.99,medium,low,4,name.com,,,11/08/2026 13:21
@@ -748,15 +796,17 @@ a91c518c-485e-4eed-ab31-5dd1140b8997,session.clothing,available,32.99,32.99,high
 6f6b17b1-4b75-4592-982e-bbd51c9d4fb0,introductory.clothing,available,19.99,,high,low,12,name.com,,,
 3d14e0fc-5086-4a31-a39a-41d24cf9d1e9,epicure.clothing,available,19.99,46.99,high,low,7,name.com,,,17/08/2026 10:42
 3e07084f-4602-4a56-be19-1b07f23e9a36,albizia.clothing,available,32.99,32.99,high,low,7,namesilo,,,18/09/2026 03:01
-6f8963b4-0106-4041-83cc-50b559410c87,munition.clothing,available,32.99,32.99,high,low,8,namesilo,,,20/09/2026 07:44
+6f8963b4-0106-4041-83cc-50b559410c87,munition.clothing,available,32.99,32.99,medium,low,8,namesilo,,,20/09/2026 07:44
 57dbd2e1-1df5-4a68-a26d-45618e865a22,xinjiang.clothing,available,25.2,25.2,medium,low,8,cloudflare,,,28/09/2026 20:28
+8e37c93a-8bcf-4f0b-bf73-c0edb84f9c89,repent.clothing,available,31.98,35.68,high,low,6,namecheap,,,30/09/2026 10:57
 4c7e9906-b5dc-4770-bc89-08f266949952,tingle.clothing,available,31.98,35.68,medium,low,6,namecheap,,,11/09/2026 16:11
+32c15848-2930-4765-95fe-681ec0c3d30e,liner.clothing,available,32.99,32.99,high,low,5,namesilo,,,30/09/2026 02:08
 7cbd9fd9-f8bc-4937-93ee-840f7471622b,murderer.clothing,available,32.99,32.99,medium,low,8,namesilo,,,25/09/2026 08:59
 7286d2ea-bf60-4be3-ab6e-78202e0b5608,iec.clothing,available,32.99,32.99,medium,low,3,namesilo,,,28/09/2026 16:35
 ee4f78c8-6f2c-4137-9601-a5cb4e471d0e,notorious.clothing,available,19.99,46.99,high,low,9,name.com,,,21/08/2026 19:05
 090299c2-668d-4fcd-9499-070d631633fe,fraternal.clothing,available,19.99,46.99,high,low,9,name.com,,,10/08/2026 03:44
 889f70f2-cd24-474b-8882-f1768118df37,huxley.clothing,available,32.99,32.99,high,low,6,namesilo,,,18/09/2026 04:39
-756f8892-ad44-45df-910a-d5c4678b9505,provide.clothing,available,19.99,,high,low,7,name.com,,,
+756f8892-ad44-45df-910a-d5c4678b9505,provide.clothing,available,26.08,26.08,high,low,7,spaceship,,,30/09/2026 07:04
 b91585e1-5c7a-4f5d-859d-e6e988d83919,annual.clothing,available,32.99,32.99,high,low,6,namesilo,,,22/09/2026 05:27
 212c4a51-77a4-45b5-b368-9083bf3d88af,unfaithful.clothing,available,19.99,46.99,medium,low,10,name.com,,,17/08/2026 21:18
 0541d126-06b4-47ef-8194-4bd6d2f11e6b,persisting.clothing,available,19.99,46.99,high,low,10,name.com,,,14/08/2026 15:05
@@ -769,10 +819,13 @@ a2313a8f-549d-41f2-8981-25f8f4dbb001,wrestling.clothing,premium,78.54,78.54,high
 47061611-677a-479e-a6a1-d10af3c0d252,unpatented.clothing,available,31.98,35.68,medium,low,10,namecheap,,,12/09/2026 16:29
 5916cf90-5726-4e73-bb83-d70774d910f7,ahimsa.clothing,available,31.98,35.68,high,low,6,namecheap,,,17/09/2026 20:23
 ea561cc8-3692-46ff-bb6f-5478c3a6d231,nitpicking.clothing,available,32.99,32.99,medium,low,10,namesilo,,,19/09/2026 01:08
+882e8e10-e4e3-4f70-9b54-53c4c27afe63,lark.clothing,available,26.08,26.08,high,low,4,spaceship,,,30/09/2026 09:46
 85cef187-cfdd-47a5-a6fb-e3a54919c939,losers.clothing,available,32.99,32.99,medium,low,6,namesilo,,,28/09/2026 04:59
 7e5f89ae-1673-490b-a56a-0eaa89bfeb05,dumbfound.clothing,available,32.99,32.99,medium,low,9,namesilo,,,21/09/2026 17:37
+dff376e8-7289-48de-a7f3-0661e3bd3920,hmm.clothing,premium,,,high,low,3,,,,01/10/2026 04:54
 46e96261-961f-4e1c-9201-6c3b0ce15c9f,recyclable.clothing,available,31.98,35.68,high,low,10,namecheap,,,09/09/2026 11:31
 176bcadb-d026-4bf0-bfdd-5e9e0d1156df,stuffy.clothing,available,19.99,46.99,high,low,6,name.com,,,
+96789601-00e4-4c20-8587-569a2a33e3bb,eda.clothing,available,32.99,32.99,high,low,3,namesilo,,,30/09/2026 05:14
 0e1a0789-c5e5-4fc5-b822-52b00e8d4d9d,patois.clothing,available,31.98,35.68,medium,low,6,namecheap,,,13/09/2026 04:15
 666d0b29-5d06-439f-8f7b-0754653fda9d,pops.clothing,available,32.99,32.99,high,low,4,namesilo,,,18/09/2026 21:55
 d939cb02-d8b5-45dd-be88-9446c732c51e,dai.clothing,available,32.99,32.99,high,low,3,namesilo,,,26/09/2026 00:53
@@ -786,17 +839,20 @@ ca672d25-33a1-44bf-8cd3-08519d4810c1,didnt.clothing,available,19.99,,medium,low,
 aec5ba73-7e94-4ae0-b80d-d6f2c9082490,congregational.clothing,available,19.99,,medium,low,14,name.com,,,
 09275b0a-970f-4452-80bf-8336ce2dcf59,apathy.clothing,available,32.99,32.99,medium,low,6,namesilo,,,19/09/2026 16:17
 3a0e2dac-f600-4d99-b3d0-ed4e416dcc5a,andira.clothing,available,32.99,32.99,medium,low,6,namesilo,,,19/09/2026 04:05
+94b819da-cc06-4694-9dda-33a0dc3d72bc,consolidate.clothing,available,32.99,32.99,high,low,11,namesilo,,,01/10/2026 04:56
 8db5a244-b7d8-41a2-a0e0-db8e82f6624e,cloaked.clothing,available,19.99,46.99,high,low,7,name.com,,,12/08/2026 11:28
 dbd86652-fb35-4d57-8ba0-8d345572d04e,limbic.clothing,available,19.99,46.99,medium,low,6,name.com,,,23/08/2026 11:49
 844a6c52-ede9-4225-90c4-586d056d0c69,nearer.clothing,available,25.2,25.2,medium,low,6,cloudflare,,,28/09/2026 14:02
 c9f72034-d059-4c38-a2ad-2c1f232510f9,northmost.clothing,available,31.98,35.68,medium,low,9,namecheap,,,03/09/2026 21:38
 4904b014-342b-4110-b4d7-6967ce3a9a09,indulging.clothing,available,31.98,35.68,high,low,9,namecheap,,,05/09/2026 00:26
-1c5dbe1e-cf0a-498a-886a-1a118302c7ab,require.clothing,available,19.99,,high,low,7,name.com,,,
+1c5dbe1e-cf0a-498a-886a-1a118302c7ab,require.clothing,available,31.98,35.68,high,low,7,namecheap,,,30/09/2026 05:27
+6507ad48-de79-4a01-9b9d-5d514622408e,subtitle.clothing,available,25.2,25.2,high,low,8,cloudflare,,,30/09/2026 02:59
 88ddaa8e-5b41-4733-9173-2117f8532314,treasury.clothing,available,32.99,32.99,high,low,8,namesilo,,,24/09/2026 21:57
 5beb31a5-0362-4877-ac00-19e0648be49a,sacred.clothing,available,32.99,32.99,high,low,6,namesilo,,,24/09/2026 23:19
 1598692a-86e5-4c41-80cd-f407a75e6866,quaintly.clothing,available,31.98,35.68,high,low,8,namecheap,,,15/09/2026 22:07
 be8cd839-abea-4d6f-b1a0-be1ea445a29c,convention.clothing,available,31.98,35.68,high,low,10,namecheap,,,03/09/2026 21:13
-25a75f5c-954c-45ff-b84d-22a3d03cefdd,capitalize.clothing,available,19.99,,high,low,10,name.com,,,
+25a75f5c-954c-45ff-b84d-22a3d03cefdd,capitalize.clothing,available,31.98,35.68,high,low,10,namecheap,,,30/09/2026 17:00
+b625dcf8-9a27-456d-9de8-82dcb007754a,harkness.clothing,available,10.92,26.97,medium,low,8,dynadot,,,30/09/2026 05:36
 26ecf4d2-71c5-47e2-bde5-c434f54c6446,tocsin.clothing,available,32.99,32.99,medium,low,6,namesilo,,,18/09/2026 01:57
 1927f042-c223-4a4a-9217-8927bd24822b,testator.clothing,available,31.98,35.68,medium,low,8,namecheap,,,11/09/2026 12:02
 20069fcc-0bac-4a22-ba9b-3dda57ec4eac,wherever.clothing,available,31.98,35.68,medium,low,8,namecheap,,,16/09/2026 11:29
@@ -822,15 +878,15 @@ f0ddf510-787f-44f1-b257-f25f3bd619c8,westmoreland.clothing,available,31.98,35.68
 35494850-84db-4083-bba6-f8e1d25723ae,onrush.clothing,available,31.98,35.68,medium,low,6,namecheap,,,21/09/2026 01:07
 68c44989-39d3-43f1-b81d-80232ba71231,transmitter.clothing,available,32.99,32.99,high,low,11,namesilo,,,28/09/2026 15:46
 577799c3-9730-4755-9c61-44c985a4291a,hexangular.clothing,available,19.99,46.99,medium,low,10,name.com,,,21/08/2026 07:48
-01d625b0-5276-4829-8c7e-0e9ea9b331a1,prizes.clothing,available,32.99,32.99,high,low,6,namesilo,,,20/09/2026 04:19
+01d625b0-5276-4829-8c7e-0e9ea9b331a1,prizes.clothing,available,32.99,32.99,medium,low,6,namesilo,,,20/09/2026 04:19
 895f7982-3243-482f-a229-262cbb88a758,proximate.clothing,available,31.98,35.68,high,low,9,namecheap,,,09/09/2026 04:46
 8326eb2c-f2b3-4bdc-b9c4-ca59f9ab2f29,scandent.clothing,available,31.98,35.68,medium,low,8,namecheap,,,09/09/2026 22:32
 b2879987-be97-444b-bd2c-fe1b2f3a8420,rhetorical.clothing,available,31.98,35.68,high,low,10,namecheap,,,09/09/2026 16:37
 cfcf6d7a-2770-4e41-b3c5-508c2f60e5ba,sloane.clothing,available,25.2,25.2,high,low,6,cloudflare,,,28/09/2026 16:12
 e8f8e98c-ebea-4fd1-932e-68cd3657b274,brown.clothing,premium,78.54,78.54,high,low,5,namesilo,,,23/09/2026 10:03
-b8b831b6-5991-4166-9f10-f17a83fb2ee7,corrode.clothing,available,31.98,35.68,high,low,7,namecheap,,,09/09/2026 20:10
+b8b831b6-5991-4166-9f10-f17a83fb2ee7,corrode.clothing,available,31.98,35.68,medium,low,7,namecheap,,,09/09/2026 20:10
 d91e0ef0-1dd8-4c60-ada6-8d4e4c31be01,apr.clothing,available,31.98,35.68,high,low,3,namecheap,,,19/09/2026 22:28
-55e8c9bc-34fa-4ee1-b3c9-638e7a7c6821,significant.clothing,available,19.99,,high,low,11,name.com,,,
+55e8c9bc-34fa-4ee1-b3c9-638e7a7c6821,significant.clothing,available,32.99,32.99,high,low,11,namesilo,,,01/10/2026 01:29
 4bb77575-2701-4258-b418-162d32125225,lossless.clothing,available,19.99,46.99,medium,low,8,name.com,,,24/08/2026 09:56
 ea3e9adc-b4d6-4ae5-8e09-b1a050f3b95a,halle.clothing,available,32.99,32.99,high,low,5,namesilo,,,27/09/2026 04:25
 bc62c8e0-6c11-4886-afe6-cee537a3ad40,dipylon.clothing,available,19.99,46.99,medium,low,7,name.com,,,14/08/2026 08:43
@@ -838,13 +894,14 @@ bc62c8e0-6c11-4886-afe6-cee537a3ad40,dipylon.clothing,available,19.99,46.99,medi
 19746dd6-3729-4b7e-a3e4-8ee126397354,abuja.clothing,available,19.99,46.99,medium,low,5,name.com,,,16/09/2026 18:50
 e308fdbf-87a8-4262-adc8-c42fb466aec3,abilities.clothing,available,32.99,32.99,high,low,9,namesilo,,,17/09/2026 04:45
 2904500f-31bd-46b4-a7d3-196f11e902d5,omnivorous.clothing,available,31.98,35.68,medium,low,10,namecheap,,,04/09/2026 13:56
-fc625264-428a-4a6d-a7a9-9ad294f4a4d4,powdered.clothing,available,32.99,32.99,high,low,8,namesilo,,,19/09/2026 15:51
+fc625264-428a-4a6d-a7a9-9ad294f4a4d4,powdered.clothing,available,32.99,32.99,medium,low,8,namesilo,,,19/09/2026 15:51
 574bb464-014e-4a13-8b45-538c8eef2667,bentonite.clothing,available,31.98,35.68,high,low,9,namecheap,,,23/09/2026 08:46
 f63ac32a-7d99-404f-b38a-69213efeee81,touchstone.clothing,available,31.98,35.68,high,low,10,namecheap,,,10/09/2026 18:36
 b7ea302f-6087-4229-aa18-9175678c41e8,eurasian.clothing,available,19.99,46.99,high,low,8,name.com,,,17/08/2026 14:26
 47e65093-1383-4312-a108-95cae21eec4a,arioso.clothing,available,31.98,35.68,medium,low,6,namecheap,,,20/09/2026 05:35
 53574ac0-ed79-4975-8f23-19a066a78900,arrack.clothing,available,32.99,32.99,medium,low,6,namesilo,,,19/09/2026 23:47
 5d4c38d4-f027-40fc-aa0e-7bc4d5f2f071,bette.clothing,available,26.08,26.08,medium,low,5,spaceship,,,29/09/2026 15:28
+a896e52b-07f7-418e-b9f3-8627dd5f00aa,thorns.clothing,available,26.08,26.08,medium,low,6,spaceship,,,30/09/2026 23:36
 47cb6d95-19e9-4a88-8cf6-55ecd827d5b4,flips.clothing,available,31.98,35.68,medium,low,5,namecheap,,,19/09/2026 20:33
 6da5d819-76de-46c7-892d-05ba09a6b648,confessions.clothing,available,10.81,26.26,medium,low,11,porkbun,,,29/09/2026 17:27
 03f805d9-1df9-409a-b8e7-2694749f1497,pathogenic.clothing,available,19.99,46.99,medium,low,10,name.com,,,22/08/2026 04:17
@@ -872,7 +929,7 @@ e15153dc-7e9e-4054-bea6-bc6edf9b809e,sportswear.clothing,premium,242,242,high,lo
 ee5ae1f5-6c6e-4ed9-9f28-cf3fbbec52c4,doubles.clothing,available,25.2,25.2,high,low,7,cloudflare,,,28/09/2026 18:58
 813b7948-24d6-4c6d-b42d-b1145b1542ab,bicycling.clothing,available,31.98,35.68,high,low,9,namecheap,,,23/09/2026 13:28
 448d6d93-ca6f-4119-852d-01ad6aa4f0fb,romano.clothing,available,32.99,32.99,high,low,6,namesilo,,,29/09/2026 10:38
-7b73c927-a18a-4eef-bed5-fe1377108938,heartening.clothing,available,19.99,46.99,high,low,10,name.com,,,21/08/2026 02:09
+7b73c927-a18a-4eef-bed5-fe1377108938,heartening.clothing,available,19.99,46.99,medium,low,10,name.com,,,21/08/2026 02:09
 6f03f215-d152-428d-8833-b499cb5cd4e8,camo.clothing,premium,38.94,38.94,high,low,4,namesilo,,,29/09/2026 06:06
 0cb553a2-7520-4022-b1df-c522729b40e5,choosy.clothing,available,19.99,46.99,medium,low,6,name.com,,,12/08/2026 06:53
 62cfe777-4289-4a44-8eea-a8ed51768628,spacious.clothing,available,25.2,25.2,high,low,8,cloudflare,,,27/09/2026 16:20
@@ -885,6 +942,7 @@ c0e9d0d9-a33a-4e2e-b4f9-64a82a44bfda,oversized.clothing,available,31.98,35.68,hi
 0f4ff7fe-b550-45bc-99a5-d0028fcaa55f,camille.clothing,available,32.99,32.99,high,low,7,namesilo,,,27/09/2026 07:42
 f1bb5023-cbc4-4164-974e-22c149eabff4,bartholdi.clothing,available,32.99,32.99,medium,low,9,namesilo,,,22/09/2026 09:11
 bc8a618a-e830-4d6e-b580-bd8cd89cb4ef,geraldine.clothing,available,26.08,26.08,medium,low,9,spaceship,,,28/09/2026 11:54
+feb3e3e2-cfa7-4fc1-bde8-9916b1dc2e54,undergo.clothing,available,10.81,26.26,high,low,7,porkbun,,,30/09/2026 03:15
 4d6629ca-76f7-42e9-9781-328b6c3b5eed,transaction.clothing,available,26.08,26.08,high,low,11,spaceship,,,28/09/2026 02:31
 bb072f8a-ec1b-4b9f-ba06-586d9e1e186a,successful.clothing,available,55.99,55.99,high,low,10,godaddy,,,28/09/2026 01:49
 265a3efb-bae9-49a1-a87b-f455abae9e1a,hurry.clothing,available,25.2,25.2,high,low,5,cloudflare,,,27/09/2026 17:14
@@ -895,14 +953,14 @@ ad0cc539-5ac3-4874-9ef4-ad7dc366a20d,stupefying.clothing,available,31.98,35.68,l
 72a193a4-301d-4153-a408-cb7c20fc29db,retinal.clothing,available,19.99,46.99,high,low,7,name.com,,,09/09/2026 15:37
 bb33af39-279c-4d3f-b859-5db40842a7f6,buren.clothing,available,32.99,32.99,medium,low,5,namesilo,,,27/09/2026 20:26
 57abd28d-3cb4-4764-a329-39513c6df9d3,patterns.clothing,available,26.08,26.08,medium,low,8,spaceship,,,28/09/2026 08:39
-ce5c0fc7-52a2-4c15-89bd-2242c5301ea9,search.clothing,premium,118.8,118.8,high,medium,6,namesilo,,,
+ce5c0fc7-52a2-4c15-89bd-2242c5301ea9,search.clothing,premium,102.67,102.67,high,medium,6,spaceship,,,30/09/2026 03:20
 871d5a30-1042-439d-8144-7dc6a769d075,tee.clothing,premium,68.51,68.51,high,low,3,spaceship,,,29/09/2026 18:55
 6c5623bd-f24d-4cf2-906c-deaa2aa4a366,explaining.clothing,available,25.2,25.2,high,low,10,cloudflare,,,27/09/2026 22:18
 a7eab588-b442-451c-a7aa-c8895e04b539,excavate.clothing,available,19.99,46.99,high,low,8,name.com,,,21/08/2026 10:33
-12396258-8bf4-4606-b4a8-68aa728e8951,brushing.clothing,available,32.99,32.99,high,low,8,namesilo,,,29/09/2026 04:50
+12396258-8bf4-4606-b4a8-68aa728e8951,brushing.clothing,available,32.99,32.99,medium,low,8,namesilo,,,29/09/2026 04:50
 abd6585a-0cc5-46bc-8838-555a8c7087fa,surging.clothing,available,19.99,46.99,high,low,7,name.com,,,09/08/2026 21:44
 b3a1839b-7762-4595-aa87-20b38b883dad,scrutiny.clothing,available,31.98,35.68,high,low,8,namecheap,,,30/09/2026 01:34
-55dacf32-3635-4262-ade3-bacda5508981,shamanism.clothing,available,32.99,32.99,high,low,9,namesilo,,,20/09/2026 14:05
+55dacf32-3635-4262-ade3-bacda5508981,shamanism.clothing,available,32.99,32.99,medium,low,9,namesilo,,,20/09/2026 14:05
 7f731bb1-1172-40a6-bdaf-9b293b98aa01,calhoun.clothing,available,32.99,32.99,medium,low,7,namesilo,,,27/09/2026 03:19
 6198be09-59cb-4a32-948c-c8531b6bab26,surveys.clothing,available,31.98,35.68,medium,low,7,namecheap,,,17/09/2026 07:59
 9c03b860-f297-4ebe-aa80-510f73e70d56,all.clothing,resell,38.94,38.94,high,medium,3,"Sav.com, LLC",04/07/2026 20:24,04/07/2027 20:24,26/09/2026 03:47
@@ -926,6 +984,7 @@ fd8a5370-df41-4c50-a917-4044b4e3bb89,inability.clothing,available,26.08,26.08,me
 8f97a332-bbdd-4b9e-b1f5-cd9638c8517a,gamers.clothing,available,31.98,35.68,high,low,6,namecheap,,,20/09/2026 23:00
 8a644ff9-4f8a-462a-ad3f-7d16be20c74b,orally.clothing,available,31.98,35.68,medium,low,6,namecheap,,,15/09/2026 18:11
 35ef81b7-58ca-4594-873d-6c0c1f4ff983,battling.clothing,available,31.98,35.68,high,low,8,namecheap,,,29/09/2026 09:02
+73e16109-e99e-4581-9fef-fe6e108105aa,yuba.clothing,available,10.92,26.97,medium,low,4,dynadot,,,30/09/2026 21:58
 9532cb66-296e-4520-9f62-775b6c1e7e29,collecting.clothing,available,32.99,32.99,high,low,10,namesilo,,,20/09/2026 16:02
 acd6ea19-45b7-450d-8875-24399a6f8583,mirish.clothing,available,32.99,32.99,medium,low,6,namesilo,,,16/09/2026 16:36
 83627fbf-2705-4032-872d-44c99291d6d2,shrewsbury.clothing,available,32.99,32.99,medium,low,10,namesilo,,,27/09/2026 19:32
@@ -940,62 +999,3 @@ dbd4beb1-1bf8-4664-a217-3591170b65fa,genovese.clothing,available,19.99,46.99,hig
 2f3a5b3d-8ea6-4503-9953-bb197cbfa121,aiglet.clothing,available,31.98,35.68,medium,low,6,namecheap,,,17/09/2026 18:23
 a78a294c-7424-4eb0-928a-ec41adac6664,choosey.clothing,available,19.99,46.99,medium,low,7,name.com,,,12/08/2026 06:55
 371b01a5-c2f5-4008-b8fa-5dac3c59a980,arborvitae.clothing,available,32.99,32.99,medium,low,10,namesilo,,,20/09/2026 00:54
-7f46217c-069e-4429-bac0-a49bae893a1b,appro.clothing,available,32.99,32.99,medium,low,5,namesilo,,,19/09/2026 22:20
-cec86d9c-96ab-46e7-a645-2788ac233b34,naive.clothing,available,31.98,35.68,high,low,5,namecheap,,,03/09/2026 12:50
-a485ee71-4ea6-4024-8cf9-168acd5baaca,owlish.clothing,available,31.98,35.68,medium,low,6,namecheap,,,04/09/2026 22:14
-3765ef0f-d5d4-4e31-a604-4128d12b8463,bennington.clothing,available,32.99,32.99,high,low,10,namesilo,,,23/09/2026 08:33
-75afb0d1-6662-4047-806a-d91947250f1d,secondly.clothing,available,31.98,35.68,medium,low,8,namecheap,,,27/09/2026 19:26
-06868503-175f-430c-a94b-69944e8f05ae,kobe.clothing,available,26.08,26.08,high,low,4,spaceship,,,28/09/2026 02:14
-0976dfbe-b68e-4349-89a5-63e04f034085,rosa.clothing,resell,,,high,low,4,,,,28/09/2026 05:49
-8849a059-bcd5-4e66-9bb4-d1a7e7e34bd7,wait.clothing,available,31.98,35.68,high,low,4,namecheap,,,13/09/2026 07:44
-ab95e2d3-a98a-4619-9c53-2636cb636b76,awheel.clothing,available,19.99,46.99,medium,low,6,name.com,,,08/08/2026 01:05
-71e820bc-0084-4f0e-9a92-472d3e67106a,klein.clothing,available,32.99,32.99,high,low,5,namesilo,,,25/09/2026 03:56
-5d6f288b-a416-4e37-b260-abc593a6fc5d,tobacco.clothing,available,26.08,26.08,medium,low,7,spaceship,,,29/09/2026 00:12
-412b4d7d-1df0-4032-b3b8-16eb29f447e5,font.clothing,available,32.99,32.99,high,low,4,namesilo,,,22/09/2026 03:31
-db4186b2-1baa-49a1-8534-44c78cfcc6bb,constantin.clothing,available,10.81,26.26,high,low,10,porkbun,,,29/09/2026 09:43
-56515ca0-4302-4226-802a-b9f2f03ea9a4,homewards.clothing,available,19.99,46.99,medium,low,9,name.com,,,21/08/2026 11:24
-84bcf875-5b08-433c-a787-9b8117b969d1,scarlet.clothing,available,19.99,46.99,high,low,7,name.com,,,10/08/2026 15:12
-31db95b1-592e-4c30-b939-08f118c81866,abaft.clothing,available,19.99,46.99,low,low,5,name.com,,,
-dfcce356-c9c1-4258-bbb4-d66259dd9f80,monroe.clothing,available,10.81,26.26,high,low,6,porkbun,,,28/09/2026 02:11
-0b6e5ae2-8ef9-42d9-8343-e5c093c16a92,hirsute.clothing,available,19.99,46.99,medium,low,7,name.com,,,20/08/2026 22:11
-2a93e661-a9a3-4a88-b079-4647d2b4aced,concert.clothing,available,32.99,32.99,high,low,7,namesilo,,,28/09/2026 03:31
-d92ecc65-2beb-4bcb-8132-fda5b4aa4bf9,equestrian.clothing,premium,38.94,38.94,high,low,10,namesilo,,,17/08/2026 11:42
-99dcf88a-fe14-424c-9985-e64097ca5e6a,impersonal.clothing,available,19.99,46.99,medium,low,10,name.com,,,21/08/2026 22:13
-c6791a9f-54c0-4ecf-894d-a40f1b0882c1,tobago.clothing,available,32.99,32.99,high,low,6,namesilo,,,27/09/2026 05:45
-219b362e-ff6d-4ed3-b7f5-7ed0f567f7f0,adopted.clothing,available,19.99,46.99,high,low,7,name.com,,,
-ca7df9b6-f2ce-43ab-8749-dc89e5a2fd9d,arame.clothing,available,32.99,32.99,medium,low,5,namesilo,,,19/09/2026 23:56
-a32b9615-be58-4595-890a-f7bd71e209c4,perturb.clothing,available,32.99,32.99,medium,low,7,namesilo,,,24/09/2026 22:49
-48ab0164-f014-4de3-af7b-f721a5dabcb2,chow.clothing,available,32.99,32.99,high,low,4,namesilo,,,29/09/2026 00:25
-4a5ded42-1d45-4424-bc50-8358bffa6639,hub.clothing,premium,102.67,102.67,high,medium,3,spaceship,,,29/09/2026 23:12
-769b3f72-2adc-44b9-becf-95709b03da21,capturing.clothing,available,26.08,26.08,medium,low,9,spaceship,,,29/09/2026 16:31
-4316efba-2e22-4aba-a1df-cd5699840c30,charnel.clothing,available,19.99,46.99,medium,low,7,name.com,,,12/08/2026 02:37
-56b54ca3-8113-4e9d-89d3-67b186793b48,menu.clothing,available,32.99,32.99,high,medium,4,namesilo,,,29/09/2026 02:40
-65f1a9db-754e-4e5a-a2da-621c46d41e9e,hopkins.clothing,available,32.99,32.99,high,low,7,namesilo,,,19/09/2026 13:42
-5479ae9e-b838-43c1-b9c4-e73d4cf93e5d,stubby.clothing,available,31.98,35.68,high,low,6,namecheap,,,10/09/2026 22:56
-64f74180-ad24-455c-9217-c58f02d78275,kokka.clothing,available,31.98,35.68,medium,low,5,namecheap,,,08/09/2026 07:02
-62ab70a9-bba3-4799-910d-d02021640fef,diver.clothing,available,25.2,25.2,high,low,5,cloudflare,,,29/09/2026 00:40
-9360e9a4-fdaf-426a-a2bd-dcdd6647eae3,full.clothing,available,32.99,32.99,high,low,4,namesilo,,,24/09/2026 14:07
-cf3daafd-8a1f-43bb-9f7f-6c880d9cec84,tamanoir.clothing,available,32.99,32.99,medium,low,8,namesilo,,,19/09/2026 12:16
-bcff9b6a-72d0-4124-a5cc-efe18dbdf078,opener.clothing,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 20:02
-17e6b66e-e890-4131-8a33-c388dd6df2f1,propulsive.clothing,available,19.99,46.99,high,low,10,name.com,,,09/09/2026 03:32
-fc14f172-1223-44bc-985d-f2a6b946f4b8,totipotent.clothing,available,31.98,35.68,medium,low,10,namecheap,,,11/09/2026 18:12
-cf14ff2e-8dfe-429a-88ad-a34fa935e4fa,abdication.clothing,available,32.99,32.99,medium,low,10,namesilo,,,16/09/2026 14:43
-81fc7cf9-d30b-4d84-92b9-523edcbe9090,sudden.clothing,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 01:51
-5b59068e-9383-404b-8fda-1c059cc5ab5b,thrace.clothing,available,25.2,25.2,medium,low,6,cloudflare,,,28/09/2026 20:38
-f018cb22-a562-4763-839e-76202db9ea6a,idol.clothing,available,32.99,32.99,high,low,4,namesilo,,,22/09/2026 22:03
-2494be01-7910-4bf0-b189-c6f9bb5e118e,trauma.clothing,available,31.98,35.68,high,low,6,namecheap,,,25/09/2026 07:04
-e8bc32c9-e1ae-40b8-a356-c464e35fda84,vocabulary.clothing,available,32.99,32.99,high,low,10,namesilo,,,28/09/2026 14:42
-4d760cb1-fcb9-4480-86df-740bc10dcc97,stupidity.clothing,available,32.99,32.99,medium,low,9,namesilo,,,23/09/2026 11:18
-35007524-5eea-4a8b-8208-80795087467f,unopposed.clothing,available,31.98,35.68,medium,low,9,namecheap,,,12/09/2026 16:16
-0427af89-fa0b-46d9-b6d1-6dda93e4a6bf,otic.clothing,available,19.99,46.99,medium,low,4,name.com,,,07/08/2026 17:41
-57cc1bc5-46de-47b5-9621-103beba8e9f3,duval.clothing,available,10.81,26.26,medium,low,5,porkbun,,,28/09/2026 11:57
-5f8646c2-fdcc-4baa-9e3c-cb057fceb5c0,experiencing.clothing,available,10.92,26.97,high,low,12,dynadot,,,28/09/2026 13:20
-3de4bd7f-3785-4587-a71a-781414a72eab,imitator.clothing,available,31.98,35.68,medium,low,8,namecheap,,,19/09/2026 16:27
-cf62bbf0-3099-4055-b467-459cd1fd8317,moresque.clothing,available,19.99,46.99,medium,low,8,name.com,,,25/08/2026 06:01
-6e5eb4fd-00b6-4e4b-83e4-4ed80e3d1fa0,hotcake.clothing,available,31.98,35.68,high,low,7,namecheap,,,22/09/2026 14:33
-0be9d60f-4d7b-41e8-aee2-a9c70fc7704e,advantage.clothing,available,31.98,35.68,high,low,9,namecheap,,,28/09/2026 18:56
-7575b0e9-60d1-49bb-b2a0-dd3a882d7d35,beryllium.clothing,available,32.99,32.99,medium,low,9,namesilo,,,20/09/2026 23:00
-c2002ddf-f520-4a2b-9153-77f589545e39,dully.clothing,available,31.98,35.68,low,low,5,namecheap,,,14/09/2026 14:43
-5ee1ef6e-1eb6-453b-ba6f-75cea395a711,expects.clothing,available,32.99,32.99,medium,low,7,namesilo,,,20/09/2026 01:39
-e6ad16c8-643c-4599-81b4-113a7c832356,booster.clothing,available,32.99,32.99,high,low,7,namesilo,,,17/09/2026 08:57
-24508d44-6708-487c-b1f3-f2a56d05fabe,mist.clothing,available,32.99,32.99,high,low,4,namesilo,,,25/09/2026 23:43
